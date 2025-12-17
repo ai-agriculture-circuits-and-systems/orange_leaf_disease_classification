@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8367298806,
+      "width": 512,
+      "height": 512,
+      "file_name": "Spiny Whitefly42.jpeg",
+      "size": 626661,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 9158886806,
+      "image_id": 8367298806,
+      "category_id": 7,
+      "segmentation": [],
+      "area": 5509.946636500993,
+      "bbox": [
+        206.248448,
+        227.460608,
+        82.919424,
+        66.449408
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "Spiny whitefly",
+      "supercategory": "Augmented Image"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4733212265,
+      "width": 512,
+      "height": 512,
+      "file_name": "Spiny Whitefly69.jpeg",
+      "size": 944801,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 8243082265,
+      "image_id": 4733212265,
+      "category_id": 7,
+      "segmentation": [],
+      "area": 2351.4382336,
+      "bbox": [
+        114.241536,
+        307.540736,
+        61.3376,
+        38.336
+      ]
+    },
+    {
+      "id": 8243082266,
+      "image_id": 4733212265,
+      "category_id": 7,
+      "segmentation": [],
+      "area": 1628.58681237504,
+      "bbox": [
+        133.55136,
+        276.872192,
+        57.93024,
+        28.112896
+      ]
+    },
+    {
+      "id": 8243082267,
+      "image_id": 4733212265,
+      "category_id": 7,
+      "segmentation": [],
+      "area": 2039.85629478912,
+      "bbox": [
+        182.39436800000001,
+        314.35596799999996,
+        38.62016,
+        52.818432
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "Spiny whitefly",
+      "supercategory": "Augmented Image"
+    }
+  ]
+}
