@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5935706387,
+      "width": 512,
+      "height": 512,
+      "file_name": "Foliage Damaged62.jpeg",
+      "size": 664602,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 7133912387,
+      "image_id": 5935706387,
+      "category_id": 4,
+      "segmentation": [],
+      "area": 14197.744140288,
+      "bbox": [
+        219.87865599999998,
+        172.93824,
+        127.2192,
+        111.60064
+      ]
+    },
+    {
+      "id": 7133912388,
+      "image_id": 5935706387,
+      "category_id": 4,
+      "segmentation": [],
+      "area": 7257.604893966337,
+      "bbox": [
+        365.272064,
+        115.00800000000001,
+        141.985792,
+        51.115008
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "Foliage damaged",
+      "supercategory": "Augmented Image"
+    }
+  ]
+}
