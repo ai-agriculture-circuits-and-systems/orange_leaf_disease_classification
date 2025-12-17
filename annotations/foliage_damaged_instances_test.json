@@ -1,0 +1,73 @@
+{
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "description": "Orange Leaf Disease Classification foliage_damaged test split",
+    "url": ""
+  },
+  "images": [],
+  "annotations": [],
+  "categories": [
+    {
+      "id": 0,
+      "name": "background",
+      "supercategory": "background"
+    },
+    {
+      "id": 1,
+      "name": "healthy_leaf",
+      "supercategory": "orange_leaf"
+    },
+    {
+      "id": 2,
+      "name": "citrus_canker",
+      "supercategory": "orange_leaf"
+    },
+    {
+      "id": 3,
+      "name": "citrus_greening",
+      "supercategory": "orange_leaf"
+    },
+    {
+      "id": 4,
+      "name": "yellow_dragon",
+      "supercategory": "orange_leaf"
+    },
+    {
+      "id": 5,
+      "name": "powdery_mildew",
+      "supercategory": "orange_leaf"
+    },
+    {
+      "id": 6,
+      "name": "shot_hole",
+      "supercategory": "orange_leaf"
+    },
+    {
+      "id": 7,
+      "name": "die_back",
+      "supercategory": "orange_leaf"
+    },
+    {
+      "id": 8,
+      "name": "citrus_mealybugs",
+      "supercategory": "orange_leaf"
+    },
+    {
+      "id": 9,
+      "name": "spiny_whitefly",
+      "supercategory": "orange_leaf"
+    },
+    {
+      "id": 10,
+      "name": "yellow_leaves",
+      "supercategory": "orange_leaf"
+    },
+    {
+      "id": 11,
+      "name": "foliage_damaged",
+      "supercategory": "orange_leaf"
+    }
+  ],
+  "licenses": []
+}

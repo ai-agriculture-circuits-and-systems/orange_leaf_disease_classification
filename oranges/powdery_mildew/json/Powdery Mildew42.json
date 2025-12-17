@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7382684311,
+      "width": 512,
+      "height": 512,
+      "file_name": "Con_Powdery Mildew42.jpeg",
+      "size": 55732,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 6398564311,
+      "image_id": 7382684311,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 6276.352224526336,
+      "bbox": [
+        171.03590400000002,
+        179.75372800000002,
+        106.772992,
+        58.782208
+      ]
+    },
+    {
+      "id": 6398564312,
+      "image_id": 7382684311,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 2786.911276498944,
+      "bbox": [
+        297.118976,
+        186.568704,
+        54.522368,
+        51.115008
+      ]
+    },
+    {
+      "id": 6398564313,
+      "image_id": 7382684311,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 2229.523438108672,
+      "bbox": [
+        311.885568,
+        237.68396800000002,
+        54.522368,
+        40.891904
+      ]
+    },
+    {
+      "id": 6398564314,
+      "image_id": 7382684311,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 8072.359736508416,
+      "bbox": [
+        146.046208,
+        303.281152,
+        97.686016,
+        82.635776
+      ]
+    },
+    {
+      "id": 6398564315,
+      "image_id": 7382684311,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 3516.5388920586242,
+      "bbox": [
+        286.896128,
+        370.582016,
+        52.250624,
+        67.301376
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 5,
+      "name": "Powdery Mildew",
+      "supercategory": "orange_leaf"
+    }
+  ]
+}

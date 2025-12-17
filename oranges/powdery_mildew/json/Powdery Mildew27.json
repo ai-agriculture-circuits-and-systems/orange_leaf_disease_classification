@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8635834024,
+      "width": 512,
+      "height": 512,
+      "file_name": "Con_Powdery Mildew27.jpeg",
+      "size": 56232,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 6529697024,
+      "image_id": 8635834024,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 14760.78056374272,
+      "bbox": [
+        6.926079999999999,
+        123.36,
+        102.53568,
+        143.957504
+      ]
+    },
+    {
+      "id": 6529697025,
+      "image_id": 8635834024,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 12876.3907473408,
+      "bbox": [
+        106.06668799999998,
+        91.671296,
+        92.349952,
+        139.4304
+      ]
+    },
+    {
+      "id": 6529697026,
+      "image_id": 8635834024,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 12049.5212986368,
+      "bbox": [
+        82.97932800000001,
+        235.62879999999998,
+        94.3872,
+        127.660544
+      ]
+    },
+    {
+      "id": 6529697027,
+      "image_id": 8635834024,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 25251.20504659968,
+      "bbox": [
+        209.96070400000002,
+        272.74982400000005,
+        205.071872,
+        123.13344
+      ]
+    },
+    {
+      "id": 6529697028,
+      "image_id": 8635834024,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 20442.16076009472,
+      "bbox": [
+        200.45388799999998,
+        165.008128,
+        180.62592,
+        113.174016
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 5,
+      "name": "Powdery Mildew",
+      "supercategory": "orange_leaf"
+    }
+  ]
+}

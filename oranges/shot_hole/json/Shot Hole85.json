@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9018008768,
+      "width": 512,
+      "height": 512,
+      "file_name": "Con_Shot Hole85.jpeg",
+      "size": 47718,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 5866276768,
+      "image_id": 9018008768,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 2911.7511334625283,
+      "bbox": [
+        183.53075199999998,
+        244.49919999999997,
+        67.017216,
+        43.447808
+      ]
+    },
+    {
+      "id": 5866276769,
+      "image_id": 9018008768,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1691.495656587264,
+      "bbox": [
+        167.628288,
+        375.69408000000004,
+        43.163648,
+        39.187968
+      ]
+    },
+    {
+      "id": 5866276770,
+      "image_id": 9018008768,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1250.2402439577602,
+      "bbox": [
+        281.21651199999997,
+        304.13311999999996,
+        38.62016,
+        32.372736
+      ]
+    },
+    {
+      "id": 5866276771,
+      "image_id": 9018008768,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 2723.040884948992,
+      "bbox": [
+        313.02144,
+        370.582272,
+        47.707136,
+        57.078272
+      ]
+    },
+    {
+      "id": 5866276772,
+      "image_id": 9018008768,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1049.929053110272,
+      "bbox": [
+        248.27596800000003,
+        468.55244799999997,
+        39.755776,
+        26.409472
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "Shot Hole",
+      "supercategory": "orange_leaf"
+    }
+  ]
+}

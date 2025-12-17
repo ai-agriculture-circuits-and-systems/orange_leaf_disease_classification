@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2217271535,
+      "width": 512,
+      "height": 512,
+      "file_name": "Con_Yellow Dragon51.jpeg",
+      "size": 39878,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 2933287535,
+      "image_id": 2217271535,
+      "category_id": 4,
+      "segmentation": [],
+      "area": 6096.348971007999,
+      "bbox": [
+        173.307648,
+        112.45260800000001,
+        79.512064,
+        76.672
+      ]
+    },
+    {
+      "id": 2933287536,
+      "image_id": 2217271535,
+      "category_id": 4,
+      "segmentation": [],
+      "area": 5527.37167638528,
+      "bbox": [
+        251.68384000000003,
+        65.597184,
+        95.414272,
+        57.93024
+      ]
+    },
+    {
+      "id": 2933287537,
+      "image_id": 2217271535,
+      "category_id": 4,
+      "segmentation": [],
+      "area": 7451.096708546561,
+      "bbox": [
+        264.178688,
+        159.307776,
+        113.588224,
+        65.59744
+      ]
+    },
+    {
+      "id": 2933287538,
+      "image_id": 2217271535,
+      "category_id": 4,
+      "segmentation": [],
+      "area": 5251.5663249408,
+      "bbox": [
+        215.335424,
+        230.016768,
+        92.0064,
+        57.078272
+      ]
+    },
+    {
+      "id": 2933287539,
+      "image_id": 2217271535,
+      "category_id": 4,
+      "segmentation": [],
+      "area": 7472.409229656065,
+      "bbox": [
+        306.20620799999995,
+        80.93184,
+        112.452608,
+        66.449408
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 4,
+      "name": "Yellow Dragon",
+      "supercategory": "orange_leaf"
+    }
+  ]
+}

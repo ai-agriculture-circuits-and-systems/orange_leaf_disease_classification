@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9713073673,
+      "width": 512,
+      "height": 512,
+      "file_name": "Con_Yellow Leaves115.jpeg",
+      "size": 47064,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 5642738673,
+      "image_id": 9713073673,
+      "category_id": 10,
+      "segmentation": [],
+      "area": 262144,
+      "bbox": [
+        0,
+        0,
+        512,
+        512
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 10,
+      "name": "Yellow Leaves",
+      "supercategory": "orange_leaf"
+    }
+  ]
+}

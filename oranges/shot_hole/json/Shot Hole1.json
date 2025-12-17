@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7371510802,
+      "width": 512,
+      "height": 512,
+      "file_name": "Con_Shot Hole1.jpeg",
+      "size": 57489,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 3342311802,
+      "image_id": 7371510802,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 6569.5321644072965,
+      "bbox": [
+        96.06758400000001,
+        231.72044800000003,
+        82.919424,
+        79.227904
+      ]
+    },
+    {
+      "id": 3342311803,
+      "image_id": 7371510802,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 2275.9818752163837,
+      "bbox": [
+        241.460736,
+        276.871936,
+        55.658496,
+        40.891904
+      ]
+    },
+    {
+      "id": 3342311804,
+      "image_id": 7371510802,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 2709.484425183232,
+      "bbox": [
+        149.453824,
+        396.991488,
+        56.794112,
+        47.707136
+      ]
+    },
+    {
+      "id": 3342311805,
+      "image_id": 7371510802,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 2923.3378272215045,
+      "bbox": [
+        315.293184,
+        336.505856,
+        64.745472,
+        45.151232
+      ]
+    },
+    {
+      "id": 3342311806,
+      "image_id": 7371510802,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1323.782812729344,
+      "bbox": [
+        281.216768,
+        446.40256,
+        40.891904,
+        32.372736
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "Shot Hole",
+      "supercategory": "orange_leaf"
+    }
+  ]
+}

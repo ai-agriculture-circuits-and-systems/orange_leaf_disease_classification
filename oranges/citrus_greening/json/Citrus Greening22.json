@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2070338717,
+      "width": 512,
+      "height": 512,
+      "file_name": "Con_Citrus Greening22.jpeg",
+      "size": 38894,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 6007250717,
+      "image_id": 2070338717,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 9497.229197574143,
+      "bbox": [
+        200.091904,
+        113.65503999999999,
+        110.344704,
+        86.068736
+      ]
+    },
+    {
+      "id": 6007250718,
+      "image_id": 2070338717,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 3052.1219610050557,
+      "bbox": [
+        339.86176,
+        147.86227200000002,
+        58.850816,
+        51.862016
+      ]
+    },
+    {
+      "id": 6007250719,
+      "image_id": 2070338717,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 8253.688922505216,
+      "bbox": [
+        197.14944,
+        204.137984,
+        91.218432,
+        90.482688
+      ]
+    },
+    {
+      "id": 6007250720,
+      "image_id": 2070338717,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 8182.30295789568,
+      "bbox": [
+        317.792768,
+        215.17209599999998,
+        82.39104,
+        99.310592
+      ]
+    },
+    {
+      "id": 6007250721,
+      "image_id": 2070338717,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 13091.626277404672,
+      "bbox": [
+        220.689664,
+        314.482432,
+        123.586048,
+        105.931264
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 3,
+      "name": "Citrus Greening",
+      "supercategory": "orange_leaf"
+    }
+  ]
+}

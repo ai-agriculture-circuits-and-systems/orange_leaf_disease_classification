@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6769326979,
+      "width": 512,
+      "height": 512,
+      "file_name": "Con_Shot Hole2.jpeg",
+      "size": 53649,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 5741184979,
+      "image_id": 6769326979,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 3197.19900184576,
+      "bbox": [
+        104.01868800000001,
+        241.94355199999998,
+        63.609344,
+        50.26304
+      ]
+    },
+    {
+      "id": 5741184980,
+      "image_id": 6769326979,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1547.32496683008,
+      "bbox": [
+        242.596352,
+        275.168256,
+        46.57152,
+        33.224704
+      ]
+    },
+    {
+      "id": 5741184981,
+      "image_id": 6769326979,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1754.3914153574403,
+      "bbox": [
+        166.49241600000002,
+        393.583872,
+        42.02752,
+        41.743872
+      ]
+    },
+    {
+      "id": 5741184982,
+      "image_id": 6769326979,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1434.0883784663042,
+      "bbox": [
+        283.488256,
+        442.143232,
+        44.299264,
+        32.372736
+      ]
+    },
+    {
+      "id": 5741184983,
+      "image_id": 6769326979,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 3538.805545500672,
+      "bbox": [
+        322.108416,
+        333.09824000000003,
+        60.201984,
+        58.782208
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "Shot Hole",
+      "supercategory": "orange_leaf"
+    }
+  ]
+}

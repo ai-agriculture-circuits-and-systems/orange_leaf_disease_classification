@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6792849876,
+      "width": 512,
+      "height": 512,
+      "file_name": "Con_Citrus Greening66.jpeg",
+      "size": 42289,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 2552324876,
+      "image_id": 6792849876,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 3402.56354992128,
+      "bbox": [
+        165.79327999999998,
+        186.482944,
+        57.10336,
+        59.586048
+      ]
+    },
+    {
+      "id": 2552324877,
+      "image_id": 6792849876,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 5771.423466389504,
+      "bbox": [
+        228.68940800000001,
+        147.862272,
+        130.758656,
+        44.137984
+      ]
+    },
+    {
+      "id": 2552324878,
+      "image_id": 6792849876,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 2136.896992968704,
+      "bbox": [
+        233.655296,
+        203.034368,
+        43.034624,
+        49.655296
+      ]
+    },
+    {
+      "id": 2552324879,
+      "image_id": 6792849876,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 4643.629808484352,
+      "bbox": [
+        308.965632,
+        207.44832,
+        93.517312,
+        49.655296
+      ]
+    },
+    {
+      "id": 2552324880,
+      "image_id": 6792849876,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 5154.093506494464,
+      "bbox": [
+        328.0,
+        276.96563199999997,
+        56.275968,
+        91.586048
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 3,
+      "name": "Citrus Greening",
+      "supercategory": "orange_leaf"
+    }
+  ]
+}

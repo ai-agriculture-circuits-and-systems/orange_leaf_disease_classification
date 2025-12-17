@@ -1,0 +1,139 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4112948508,
+      "width": 512,
+      "height": 512,
+      "file_name": "Con_Citrus Greening11.jpeg",
+      "size": 40657,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 4201595508,
+      "image_id": 4112948508,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 2042.305037205504,
+      "bbox": [
+        219.218176,
+        125.79302399999999,
+        50.022912,
+        40.827392
+      ]
+    },
+    {
+      "id": 4201595509,
+      "image_id": 4112948508,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 7396.514226241536,
+      "bbox": [
+        291.310592,
+        124.689664,
+        100.045824,
+        73.931264
+      ]
+    },
+    {
+      "id": 4201595510,
+      "image_id": 4112948508,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 3623.5639117578244,
+      "bbox": [
+        170.666752,
+        176.55193599999998,
+        91.218432,
+        39.724032
+      ]
+    },
+    {
+      "id": 4201595511,
+      "image_id": 4112948508,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 7287.763111247872,
+      "bbox": [
+        257.471232,
+        191.999744,
+        98.574848,
+        73.931264
+      ]
+    },
+    {
+      "id": 4201595512,
+      "image_id": 4112948508,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 8693.663748063233,
+      "bbox": [
+        136.827648,
+        217.379328,
+        125.057536,
+        69.517312
+      ]
+    },
+    {
+      "id": 4201595513,
+      "image_id": 4112948508,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 7492.2763165368315,
+      "bbox": [
+        232.45952,
+        257.10336,
+        104.459776,
+        71.724032
+      ]
+    },
+    {
+      "id": 4201595514,
+      "image_id": 4112948508,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 2805.337834389504,
+      "bbox": [
+        179.494144,
+        305.655296,
+        70.620672,
+        39.724032
+      ]
+    },
+    {
+      "id": 4201595515,
+      "image_id": 4112948508,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 3376.8029487104004,
+      "bbox": [
+        247.17235200000002,
+        332.13772800000004,
+        76.5056,
+        44.137984
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 3,
+      "name": "Citrus Greening",
+      "supercategory": "orange_leaf"
+    }
+  ]
+}

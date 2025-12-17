@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2194082860,
+      "width": 512,
+      "height": 512,
+      "file_name": "Con_Citrus Greening59.jpeg",
+      "size": 42166,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 4695290860,
+      "image_id": 2194082860,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 9750.490134347776,
+      "bbox": [
+        105.931264,
+        260.41369599999996,
+        133.884928,
+        72.827392
+      ]
+    },
+    {
+      "id": 4695290861,
+      "image_id": 2194082860,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 3123.550674747392,
+      "bbox": [
+        200.09216,
+        204.137728,
+        54.436864,
+        57.379328
+      ]
+    },
+    {
+      "id": 4695290862,
+      "image_id": 2194082860,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 5045.74856921088,
+      "bbox": [
+        288.367616,
+        243.86176,
+        61.79328,
+        81.655296
+      ]
+    },
+    {
+      "id": 4695290863,
+      "image_id": 2194082860,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 5402.888936357887,
+      "bbox": [
+        86.80448000000001,
+        371.862272,
+        94.160896,
+        57.379328
+      ]
+    },
+    {
+      "id": 4695290864,
+      "image_id": 2194082860,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 3500.179852099584,
+      "bbox": [
+        211.86176,
+        372.965632,
+        64.735744,
+        54.068736
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 3,
+      "name": "Citrus Greening",
+      "supercategory": "orange_leaf"
+    }
+  ]
+}

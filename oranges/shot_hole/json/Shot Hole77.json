@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2309142743,
+      "width": 512,
+      "height": 512,
+      "file_name": "Con_Shot Hole77.jpeg",
+      "size": 51442,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 2962508743,
+      "image_id": 2309142743,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1475.5105918156798,
+      "bbox": [
+        234.40640000000002,
+        241.966336,
+        32.59392,
+        45.269504
+      ]
+    },
+    {
+      "id": 2962508744,
+      "image_id": 2309142743,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1242.508623347712,
+      "bbox": [
+        271.075072,
+        175.872512,
+        29.198848,
+        42.553344
+      ]
+    },
+    {
+      "id": 2962508745,
+      "image_id": 2309142743,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1466.306764210176,
+      "bbox": [
+        364.783104,
+        300.816896,
+        30.557184,
+        47.985664
+      ]
+    },
+    {
+      "id": 2962508746,
+      "image_id": 2309142743,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 3912.6045200220165,
+      "bbox": [
+        218.10944,
+        359.667712,
+        58.397696,
+        66.999296
+      ]
+    },
+    {
+      "id": 2962508747,
+      "image_id": 2309142743,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1857.3301991342078,
+      "bbox": [
+        364.783104,
+        439.34208,
+        35.989504,
+        51.607552
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "Shot Hole",
+      "supercategory": "orange_leaf"
+    }
+  ]
+}

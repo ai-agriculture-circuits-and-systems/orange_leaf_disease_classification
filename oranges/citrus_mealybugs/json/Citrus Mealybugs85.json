@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7232442909,
+      "width": 512,
+      "height": 512,
+      "file_name": "Con_Citrus Mealybugs85.jpeg",
+      "size": 46880,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 2867887909,
+      "image_id": 7232442909,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 5754.982307463169,
+      "bbox": [
+        21.793280000000003,
+        195.31007999999997,
+        113.379328,
+        50.758656
+      ]
+    },
+    {
+      "id": 2867887910,
+      "image_id": 7232442909,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 5040.84618805248,
+      "bbox": [
+        49.103615999999995,
+        236.13798400000002,
+        76.137984,
+        66.20672
+      ]
+    },
+    {
+      "id": 2867887911,
+      "image_id": 7232442909,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 6177.77390157824,
+      "bbox": [
+        216.275712,
+        177.655296,
+        101.79328,
+        60.689408
+      ]
+    },
+    {
+      "id": 2867887912,
+      "image_id": 7232442909,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 843.8055292108801,
+      "bbox": [
+        316.41369599999996,
+        407.172352,
+        27.310592,
+        30.89664
+      ]
+    },
+    {
+      "id": 2867887913,
+      "image_id": 7232442909,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 2235.49479452672,
+      "bbox": [
+        148.413696,
+        250.482688,
+        42.20672,
+        52.965376
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 8,
+      "name": "Citrus Mealybugs",
+      "supercategory": "orange_leaf"
+    }
+  ]
+}

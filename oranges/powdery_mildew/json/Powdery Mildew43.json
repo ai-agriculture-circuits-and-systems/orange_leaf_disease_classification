@@ -1,0 +1,139 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9078410351,
+      "width": 512,
+      "height": 512,
+      "file_name": "Con_Powdery Mildew43.jpeg",
+      "size": 55475,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 6496206351,
+      "image_id": 9078410351,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 2339.8176632340483,
+      "bbox": [
+        251.68383999999998,
+        222.34956799999998,
+        44.299264,
+        52.818432
+      ]
+    },
+    {
+      "id": 6496206352,
+      "image_id": 9078410351,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 2032.127858180096,
+      "bbox": [
+        225.558528,
+        284.53888,
+        56.794112,
+        35.780608
+      ]
+    },
+    {
+      "id": 6496206353,
+      "image_id": 9078410351,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 6157.307386527745,
+      "bbox": [
+        322.108672,
+        247.05510399999997,
+        71.560704,
+        86.043136
+      ]
+    },
+    {
+      "id": 6496206354,
+      "image_id": 9078410351,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 5051.269382668288,
+      "bbox": [
+        266.450176,
+        97.97017600000001,
+        102.229504,
+        49.411072
+      ]
+    },
+    {
+      "id": 6496206355,
+      "image_id": 9078410351,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 9141.620931035137,
+      "bbox": [
+        183.530752,
+        159.30803199999997,
+        76.104192,
+        120.119808
+      ]
+    },
+    {
+      "id": 6496206356,
+      "image_id": 9078410351,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 3456.5504567869443,
+      "bbox": [
+        176.715008,
+        295.61395200000004,
+        53.386752,
+        64.745472
+      ]
+    },
+    {
+      "id": 6496206357,
+      "image_id": 9078410351,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 6270.528126975999,
+      "bbox": [
+        386.853888,
+        93.710336,
+        81.783808,
+        76.672
+      ]
+    },
+    {
+      "id": 6496206358,
+      "image_id": 9078410351,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 8728.425445982208,
+      "bbox": [
+        317.564928,
+        178.049792,
+        124.947456,
+        69.856768
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 5,
+      "name": "Powdery Mildew",
+      "supercategory": "orange_leaf"
+    }
+  ]
+}

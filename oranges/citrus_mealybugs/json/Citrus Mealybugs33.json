@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9532485355,
+      "width": 512,
+      "height": 512,
+      "file_name": "Con_Citrus Mealybugs33.jpeg",
+      "size": 40000,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 2179137355,
+      "image_id": 9532485355,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 6935.416840126464,
+      "bbox": [
+        353.103616,
+        210.758656,
+        130.942464,
+        52.965376
+      ]
+    },
+    {
+      "id": 2179137356,
+      "image_id": 9532485355,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 3509.919643336704,
+      "bbox": [
+        298.66675200000003,
+        218.482688,
+        69.149184,
+        50.758656
+      ]
+    },
+    {
+      "id": 2179137357,
+      "image_id": 9532485355,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 4636.63553052672,
+      "bbox": [
+        220.68940800000001,
+        232.827392,
+        82.39104,
+        56.275968
+      ]
+    },
+    {
+      "id": 2179137358,
+      "image_id": 9532485355,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 4500.223086821376,
+      "bbox": [
+        77.97708800000001,
+        278.069248,
+        113.287168,
+        39.724032
+      ]
+    },
+    {
+      "id": 2179137359,
+      "image_id": 9532485355,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 1271.169024,
+      "bbox": [
+        394.29888,
+        286.89664,
+        39.724032,
+        32.0
+      ]
+    },
+    {
+      "id": 2179137360,
+      "image_id": 9532485355,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 1741.9617574584322,
+      "bbox": [
+        445.79302399999995,
+        165.51756799999998,
+        42.666496,
+        40.827392
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 8,
+      "name": "Citrus Mealybugs",
+      "supercategory": "orange_leaf"
+    }
+  ]
+}

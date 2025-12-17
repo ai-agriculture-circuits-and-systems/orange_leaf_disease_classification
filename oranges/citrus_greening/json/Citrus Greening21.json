@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9542693699,
+      "width": 512,
+      "height": 512,
+      "file_name": "Con_Citrus Greening21.jpeg",
+      "size": 36664,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1836911699,
+      "image_id": 9542693699,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 5268.11250294784,
+      "bbox": [
+        169.19552,
+        124.68992,
+        86.80448,
+        60.689408
+      ]
+    },
+    {
+      "id": 1836911700,
+      "image_id": 9542693699,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 4216.122585120768,
+      "bbox": [
+        270.712576,
+        153.379584,
+        77.977088,
+        54.068736
+      ]
+    },
+    {
+      "id": 1836911701,
+      "image_id": 9542693699,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 13247.48892536832,
+      "bbox": [
+        157.42515200000003,
+        196.41395200000002,
+        141.241344,
+        93.79328
+      ]
+    },
+    {
+      "id": 1836911702,
+      "image_id": 9542693699,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 14318.979329294336,
+      "bbox": [
+        157.425408,
+        303.448064,
+        144.183808,
+        99.310592
+      ]
+    },
+    {
+      "id": 1836911703,
+      "image_id": 9542693699,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 2795.61103736832,
+      "bbox": [
+        316.321792,
+        227.31059199999999,
+        61.79328,
+        45.241344
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 3,
+      "name": "Citrus Greening",
+      "supercategory": "orange_leaf"
+    }
+  ]
+}

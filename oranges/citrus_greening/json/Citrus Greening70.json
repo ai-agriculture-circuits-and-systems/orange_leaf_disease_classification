@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8815736886,
+      "width": 512,
+      "height": 512,
+      "file_name": "Con_Citrus Greening70.jpeg",
+      "size": 47394,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 9656251886,
+      "image_id": 8815736886,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 14831.24333215744,
+      "bbox": [
+        366.89689599999997,
+        211.86176,
+        90.20672,
+        164.413952
+      ]
+    },
+    {
+      "id": 9656251887,
+      "image_id": 8815736886,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 9473.476980637697,
+      "bbox": [
+        255.172608,
+        169.931008,
+        110.068736,
+        86.068736
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 3,
+      "name": "Citrus Greening",
+      "supercategory": "orange_leaf"
+    }
+  ]
+}

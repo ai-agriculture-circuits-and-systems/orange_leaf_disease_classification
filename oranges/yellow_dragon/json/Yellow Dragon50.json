@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1858702533,
+      "width": 512,
+      "height": 512,
+      "file_name": "Con_Yellow Dragon50.jpeg",
+      "size": 35133,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 9824419533,
+      "image_id": 1858702533,
+      "category_id": 4,
+      "segmentation": [],
+      "area": 15240.868211195904,
+      "bbox": [
+        152.86144000000002,
+        152.49280000000005,
+        71.560704,
+        212.978176
+      ]
+    },
+    {
+      "id": 9824419534,
+      "image_id": 1858702533,
+      "category_id": 4,
+      "segmentation": [],
+      "area": 5666.71500115968,
+      "bbox": [
+        227.83027200000004,
+        128.638976,
+        69.28896,
+        81.783808
+      ]
+    },
+    {
+      "id": 9824419535,
+      "image_id": 1858702533,
+      "category_id": 4,
+      "segmentation": [],
+      "area": 6618.914063646719,
+      "bbox": [
+        256.227328,
+        231.72044800000003,
+        81.783808,
+        80.93184
+      ]
+    },
+    {
+      "id": 9824419536,
+      "image_id": 1858702533,
+      "category_id": 4,
+      "segmentation": [],
+      "area": 4927.401832218624,
+      "bbox": [
+        310.74944,
+        162.715648,
+        76.104192,
+        64.745472
+      ]
+    },
+    {
+      "id": 9824419537,
+      "image_id": 1858702533,
+      "category_id": 4,
+      "segmentation": [],
+      "area": 3996.5180533145594,
+      "bbox": [
+        297.118976,
+        87.747072,
+        79.512064,
+        50.26304
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 4,
+      "name": "Yellow Dragon",
+      "supercategory": "orange_leaf"
+    }
+  ]
+}

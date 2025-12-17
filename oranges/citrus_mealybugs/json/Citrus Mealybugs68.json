@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3279817870,
+      "width": 512,
+      "height": 512,
+      "file_name": "Con_Citrus Mealybugs68.jpeg",
+      "size": 53324,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 7634240870,
+      "image_id": 3279817870,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 8747.522591031297,
+      "bbox": [
+        169.931008,
+        144.55167999999998,
+        76.965376,
+        113.655296
+      ]
+    },
+    {
+      "id": 7634240871,
+      "image_id": 3279817870,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 1104.066016968704,
+      "bbox": [
+        222.89664,
+        103.724032,
+        25.655296,
+        43.034624
+      ]
+    },
+    {
+      "id": 7634240872,
+      "image_id": 3279817870,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 3306.7002447790082,
+      "bbox": [
+        231.172352,
+        289.10336,
+        58.758656,
+        56.275968
+      ]
+    },
+    {
+      "id": 7634240873,
+      "image_id": 3279817870,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 6428.9263221473275,
+      "bbox": [
+        302.344704,
+        305.65504,
+        91.034624,
+        70.620672
+      ]
+    },
+    {
+      "id": 7634240874,
+      "image_id": 3279817870,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 3090.252574752768,
+      "bbox": [
+        397.517568,
+        335.44831999999997,
+        59.586048,
+        51.862016
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 8,
+      "name": "Citrus Mealybugs",
+      "supercategory": "orange_leaf"
+    }
+  ]
+}

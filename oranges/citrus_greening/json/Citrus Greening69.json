@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1711396882,
+      "width": 512,
+      "height": 512,
+      "file_name": "Con_Citrus Greening69.jpeg",
+      "size": 49088,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 4353397882,
+      "image_id": 1711396882,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 2136.883292536832,
+      "bbox": [
+        241.93100799999996,
+        293.517056,
+        37.241344,
+        57.379328
+      ]
+    },
+    {
+      "id": 4353397883,
+      "image_id": 1711396882,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 2049.230397505536,
+      "bbox": [
+        297.379328,
+        189.793024,
+        56.275968,
+        36.413952
+      ]
+    },
+    {
+      "id": 4353397884,
+      "image_id": 1711396882,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 8136.590212988928,
+      "bbox": [
+        220.413696,
+        232.827648,
+        136.551936,
+        59.586048
+      ]
+    },
+    {
+      "id": 4353397885,
+      "image_id": 1711396882,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 10535.566595325952,
+      "bbox": [
+        289.103616,
+        305.65504,
+        115.034624,
+        91.586048
+      ]
+    },
+    {
+      "id": 4353397886,
+      "image_id": 1711396882,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 3324.029032726528,
+      "bbox": [
+        365.2416,
+        228.413952,
+        46.344704,
+        71.724032
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 3,
+      "name": "Citrus Greening",
+      "supercategory": "orange_leaf"
+    }
+  ]
+}

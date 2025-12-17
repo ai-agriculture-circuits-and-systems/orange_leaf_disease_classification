@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1822429886,
+      "width": 512,
+      "height": 512,
+      "file_name": "Con_Citrus Mealybugs74.jpeg",
+      "size": 48509,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1502965886,
+      "image_id": 1822429886,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 8903.676736831489,
+      "bbox": [
+        334.620928,
+        214.068736,
+        107.586048,
+        82.758656
+      ]
+    },
+    {
+      "id": 1502965887,
+      "image_id": 1822429886,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 1160.680071757824,
+      "bbox": [
+        64.0,
+        237.24134399999997,
+        25.655296,
+        45.241344
+      ]
+    },
+    {
+      "id": 1502965888,
+      "image_id": 1822429886,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 820.96128,
+      "bbox": [
+        202.206976,
+        171.03462399999998,
+        24.0,
+        34.20672
+      ]
+    },
+    {
+      "id": 1502965889,
+      "image_id": 1822429886,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 862.967484121088,
+      "bbox": [
+        232.82790400000002,
+        230.620928,
+        22.344704,
+        38.620672
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 8,
+      "name": "Citrus Mealybugs",
+      "supercategory": "orange_leaf"
+    }
+  ]
+}

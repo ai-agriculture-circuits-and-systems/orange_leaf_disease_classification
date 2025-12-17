@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4686341135,
+      "width": 512,
+      "height": 512,
+      "file_name": "Con_Yellow Dragon21.jpeg",
+      "size": 45075,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 9937735135,
+      "image_id": 4686341135,
+      "category_id": 4,
+      "segmentation": [],
+      "area": 4236.00353837056,
+      "bbox": [
+        149.52576,
+        98.91404800000001,
+        44.137984,
+        95.97184
+      ]
+    },
+    {
+      "id": 9937735136,
+      "image_id": 4686341135,
+      "category_id": 4,
+      "segmentation": [],
+      "area": 8146.153403056127,
+      "bbox": [
+        267.679232,
+        194.885888,
+        71.979008,
+        113.174016
+      ]
+    },
+    {
+      "id": 9937735137,
+      "image_id": 4686341135,
+      "category_id": 4,
+      "segmentation": [],
+      "area": 3637.1838680432643,
+      "bbox": [
+        188.231168,
+        168.62975999999998,
+        46.175232,
+        78.769152
+      ]
+    },
+    {
+      "id": 9937735138,
+      "image_id": 4686341135,
+      "category_id": 4,
+      "segmentation": [],
+      "area": 3995.590436585472,
+      "bbox": [
+        302.99008000000003,
+        112.49536,
+        65.867264,
+        60.661248
+      ]
+    },
+    {
+      "id": 9937735139,
+      "image_id": 4686341135,
+      "category_id": 4,
+      "segmentation": [],
+      "area": 3545.560012029952,
+      "bbox": [
+        343.73248,
+        262.7904,
+        49.570304,
+        71.525888
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 4,
+      "name": "Yellow Dragon",
+      "supercategory": "orange_leaf"
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "description": "Orange Leaf Disease Classification yellow_leaves val split",
+    "url": ""
+  },
+  "images": [
+    {
+      "id": 5408018627,
+      "file_name": "oranges/yellow_leaves/images/Yellow Leaves116.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 8371106696,
+      "file_name": "oranges/yellow_leaves/images/Yellow Leaves127.jpeg",
+      "width": 640,
+      "height": 480
+    },
+    {
+      "id": 5001628400,
+      "file_name": "oranges/yellow_leaves/images/Yellow Leaves11.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 7230725526,
+      "file_name": "oranges/yellow_leaves/images/Yellow Leaves119.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 5815053179,
+      "file_name": "oranges/yellow_leaves/images/Yellow Leaves112.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 4350467523,
+      "file_name": "oranges/yellow_leaves/images/Yellow Leaves105.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 9054837226,
+      "file_name": "oranges/yellow_leaves/images/Yellow Leaves122.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 3883451165,
+      "file_name": "oranges/yellow_leaves/images/Yellow Leaves111.jpeg",
+      "width": 480,
+      "height": 640
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 5408018627,
+      "category_id": 10,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8371106696,
+      "category_id": 10,
+      "bbox": [
+        0.0,
+        0.0,
+        640.0,
+        480.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 5001628400,
+      "category_id": 10,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 7230725526,
+      "category_id": 10,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 5815053179,
+      "category_id": 10,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 4350467523,
+      "category_id": 10,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 9054837226,
+      "category_id": 10,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 3883451165,
+      "category_id": 10,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "background",
+      "supercategory": "background"
+    },
+    {
+      "id": 1,
+      "name": "healthy_leaf",
+      "supercategory": "orange_leaf"
+    },
+    {
+      "id": 2,
+      "name": "citrus_canker",
+      "supercategory": "orange_leaf"
+    },
+    {
+      "id": 3,
+      "name": "citrus_greening",
+      "supercategory": "orange_leaf"
+    },
+    {
+      "id": 4,
+      "name": "yellow_dragon",
+      "supercategory": "orange_leaf"
+    },
+    {
+      "id": 5,
+      "name": "powdery_mildew",
+      "supercategory": "orange_leaf"
+    },
+    {
+      "id": 6,
+      "name": "shot_hole",
+      "supercategory": "orange_leaf"
+    },
+    {
+      "id": 7,
+      "name": "die_back",
+      "supercategory": "orange_leaf"
+    },
+    {
+      "id": 8,
+      "name": "citrus_mealybugs",
+      "supercategory": "orange_leaf"
+    },
+    {
+      "id": 9,
+      "name": "spiny_whitefly",
+      "supercategory": "orange_leaf"
+    },
+    {
+      "id": 10,
+      "name": "yellow_leaves",
+      "supercategory": "orange_leaf"
+    },
+    {
+      "id": 11,
+      "name": "foliage_damaged",
+      "supercategory": "orange_leaf"
+    }
+  ],
+  "licenses": []
+}

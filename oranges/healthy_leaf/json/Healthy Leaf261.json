@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2191528034,
+      "width": 512,
+      "height": 512,
+      "file_name": "Con_Healthy Leaf261.jpeg",
+      "size": 35894,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 2516878034,
+      "image_id": 2191528034,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 262144,
+      "bbox": [
+        0,
+        0,
+        512,
+        512
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Healthy Leaf",
+      "supercategory": "orange_leaf"
+    }
+  ]
+}

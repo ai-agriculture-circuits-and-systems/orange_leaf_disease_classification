@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7539872866,
+      "width": 512,
+      "height": 512,
+      "file_name": "Con_Spiny Whitefly7.jpeg",
+      "size": 33319,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 8606584866,
+      "image_id": 7539872866,
+      "category_id": 9,
+      "segmentation": [],
+      "area": 8267.831203856384,
+      "bbox": [
+        211.92755200000002,
+        268.35276799999997,
+        109.044736,
+        75.820544
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 9,
+      "name": "Spiny Whitefly",
+      "supercategory": "orange_leaf"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5434627733,
+      "width": 512,
+      "height": 512,
+      "file_name": "Con_Powdery Mildew72.jpeg",
+      "size": 73822,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 3726128733,
+      "image_id": 5434627733,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 9076.341696102401,
+      "bbox": [
+        131.191552,
+        204.845056,
+        75.37408,
+        120.41728
+      ]
+    },
+    {
+      "id": 3726128734,
+      "image_id": 5434627733,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 15325.852866445312,
+      "bbox": [
+        286.013696,
+        187.642624,
+        111.363584,
+        137.619968
+      ]
+    },
+    {
+      "id": 3726128735,
+      "image_id": 5434627733,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 9413.837048512512,
+      "bbox": [
+        408.921088,
+        117.022208,
+        89.633792,
+        105.025536
+      ]
+    },
+    {
+      "id": 3726128736,
+      "image_id": 5434627733,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 16289.804983468031,
+      "bbox": [
+        36.125184000000004,
+        109.77919999999999,
+        187.416576,
+        86.917632
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 5,
+      "name": "Powdery Mildew",
+      "supercategory": "orange_leaf"
+    }
+  ]
+}

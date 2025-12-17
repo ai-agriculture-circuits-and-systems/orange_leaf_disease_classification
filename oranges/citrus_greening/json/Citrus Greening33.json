@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7505790802,
+      "width": 512,
+      "height": 512,
+      "file_name": "Con_Citrus Greening33.jpeg",
+      "size": 39544,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 4954582802,
+      "image_id": 7505790802,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 3815.140822351872,
+      "bbox": [
+        344.276224,
+        321.10310400000003,
+        69.149184,
+        55.172608
+      ]
+    },
+    {
+      "id": 4954582803,
+      "image_id": 7505790802,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 6607.482099073024,
+      "bbox": [
+        295.72403199999997,
+        261.517312,
+        108.873728,
+        60.689408
+      ]
+    },
+    {
+      "id": 4954582804,
+      "image_id": 7505790802,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 6536.08464678912,
+      "bbox": [
+        204.505856,
+        231.724032,
+        97.10336,
+        67.310592
+      ]
+    },
+    {
+      "id": 4954582805,
+      "image_id": 7505790802,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 9214.741542600705,
+      "bbox": [
+        217.747456,
+        326.620928,
+        126.528512,
+        72.827392
+      ]
+    },
+    {
+      "id": 4954582806,
+      "image_id": 7505790802,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 2759.861746794496,
+      "bbox": [
+        172.13772799999998,
+        301.24159999999995,
+        125.057536,
+        22.068736
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 3,
+      "name": "Citrus Greening",
+      "supercategory": "orange_leaf"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1145656456,
+      "width": 512,
+      "height": 512,
+      "file_name": "Con_Citrus Mealybugs39.jpeg",
+      "size": 43617,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 4048174456,
+      "image_id": 1145656456,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 1396.1664953057282,
+      "bbox": [
+        261.885184,
+        68.413952,
+        29.425152,
+        47.448064
+      ]
+    },
+    {
+      "id": 4048174457,
+      "image_id": 1145656456,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 1636.45215473664,
+      "bbox": [
+        291.31008,
+        26.482688,
+        41.19552,
+        39.724032
+      ]
+    },
+    {
+      "id": 4048174458,
+      "image_id": 1145656456,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 2035.8440461271039,
+      "bbox": [
+        238.344704,
+        137.931008,
+        48.551936,
+        41.931264
+      ]
+    },
+    {
+      "id": 4048174459,
+      "image_id": 1145656456,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 3954.76992,
+      "bbox": [
+        200.09164800000002,
+        188.689408,
+        61.79328,
+        64.0
+      ]
+    },
+    {
+      "id": 4048174460,
+      "image_id": 1145656456,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 1379.9455625052158,
+      "bbox": [
+        147.126528,
+        206.344704,
+        36.781568,
+        37.517312
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 8,
+      "name": "Citrus Mealybugs",
+      "supercategory": "orange_leaf"
+    }
+  ]
+}

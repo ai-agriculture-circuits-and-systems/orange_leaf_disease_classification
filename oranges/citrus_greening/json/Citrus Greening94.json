@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9678135938,
+      "width": 512,
+      "height": 512,
+      "file_name": "Con_Citrus Greening94.jpeg",
+      "size": 46150,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 2175848938,
+      "image_id": 9678135938,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 2810.81360678912,
+      "bbox": [
+        142.62067199999998,
+        59.586304,
+        44.689408,
+        62.89664
+      ]
+    },
+    {
+      "id": 2175848939,
+      "image_id": 9678135938,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 3994.3283233259517,
+      "bbox": [
+        121.10361599999999,
+        300.13824,
+        67.034624,
+        59.586048
+      ]
+    },
+    {
+      "id": 2175848940,
+      "image_id": 9678135938,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 12532.704274284544,
+      "bbox": [
+        233.65503999999999,
+        168.82739199999997,
+        120.827392,
+        103.724032
+      ]
+    },
+    {
+      "id": 2175848941,
+      "image_id": 9678135938,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 7692.765785489408,
+      "bbox": [
+        292.413696,
+        254.896896,
+        89.379328,
+        86.068736
+      ]
+    },
+    {
+      "id": 2175848942,
+      "image_id": 9678135938,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 11586.631078510592,
+      "bbox": [
+        209.65503999999999,
+        290.206976,
+        86.068736,
+        134.620672
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 3,
+      "name": "Citrus Greening",
+      "supercategory": "orange_leaf"
+    }
+  ]
+}

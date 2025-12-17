@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9578100353,
+      "width": 512,
+      "height": 512,
+      "file_name": "Con_Citrus Canker566.jpeg",
+      "size": 39226,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 6130733353,
+      "image_id": 9578100353,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 262144,
+      "bbox": [
+        0,
+        0,
+        512,
+        512
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "Citrus Canker",
+      "supercategory": "orange_leaf"
+    }
+  ]
+}

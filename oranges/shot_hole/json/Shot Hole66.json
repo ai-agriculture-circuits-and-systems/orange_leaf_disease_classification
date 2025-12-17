@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8168072717,
+      "width": 512,
+      "height": 512,
+      "file_name": "Con_Shot Hole66.jpeg",
+      "size": 48920,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 2032035717,
+      "image_id": 8168072717,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1219.267031728128,
+      "bbox": [
+        110.83392,
+        253.018624,
+        40.891904,
+        29.816832
+      ]
+    },
+    {
+      "id": 2032035718,
+      "image_id": 8168072717,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1052.8411746304,
+      "bbox": [
+        76.757504,
+        336.5056,
+        38.62016,
+        27.26144
+      ]
+    },
+    {
+      "id": 2032035719,
+      "image_id": 8168072717,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1341.1857528258558,
+      "bbox": [
+        224.4224,
+        206.162944,
+        47.707136,
+        28.112896
+      ]
+    },
+    {
+      "id": 2032035720,
+      "image_id": 8168072717,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 839.938706243584,
+      "bbox": [
+        235.78112,
+        270.908672,
+        35.212288,
+        23.853568
+      ]
+    },
+    {
+      "id": 2032035721,
+      "image_id": 8168072717,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 2465.630408146944,
+      "bbox": [
+        205.11231999999998,
+        305.837056,
+        55.658496,
+        44.299264
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "Shot Hole",
+      "supercategory": "orange_leaf"
+    }
+  ]
+}

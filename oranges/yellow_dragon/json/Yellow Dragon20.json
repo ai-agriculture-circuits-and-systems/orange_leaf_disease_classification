@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6475507118,
+      "width": 512,
+      "height": 512,
+      "file_name": "Con_Yellow Dragon20.jpeg",
+      "size": 51855,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 8796500118,
+      "image_id": 6475507118,
+      "category_id": 4,
+      "segmentation": [],
+      "area": 8902.583374577664,
+      "bbox": [
+        293.71136,
+        97.970176,
+        113.588224,
+        78.375936
+      ]
+    },
+    {
+      "id": 8796500119,
+      "image_id": 6475507118,
+      "category_id": 4,
+      "segmentation": [],
+      "area": 8369.427884539904,
+      "bbox": [
+        247.14009599999997,
+        173.790208,
+        105.637376,
+        79.227904
+      ]
+    },
+    {
+      "id": 8796500120,
+      "image_id": 6475507118,
+      "category_id": 4,
+      "segmentation": [],
+      "area": 11925.6292458496,
+      "bbox": [
+        214.199552,
+        263.24147200000004,
+        88.59904,
+        134.60224
+      ]
+    },
+    {
+      "id": 8796500121,
+      "image_id": 6475507118,
+      "category_id": 4,
+      "segmentation": [],
+      "area": 12723.024620945409,
+      "bbox": [
+        315.293184,
+        313.504256,
+        86.327296,
+        147.381248
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 4,
+      "name": "Yellow Dragon",
+      "supercategory": "orange_leaf"
+    }
+  ]
+}

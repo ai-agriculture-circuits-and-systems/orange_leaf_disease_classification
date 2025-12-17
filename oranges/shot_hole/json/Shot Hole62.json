@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8985610708,
+      "width": 512,
+      "height": 512,
+      "file_name": "Con_Shot Hole62.jpeg",
+      "size": 48242,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 4115680709,
+      "image_id": 8985610708,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1741.82500007936,
+      "bbox": [
+        175.57939199999998,
+        52.818687999999995,
+        40.891904,
+        42.59584
+      ]
+    },
+    {
+      "id": 4115680710,
+      "image_id": 8985610708,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 2264.3486556159996,
+      "bbox": [
+        214.199552,
+        19.593984,
+        59.065856,
+        38.336
+      ]
+    },
+    {
+      "id": 4115680711,
+      "image_id": 8985610708,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1169.9178459627522,
+      "bbox": [
+        210.791936,
+        123.527168,
+        35.212288,
+        33.224704
+      ]
+    },
+    {
+      "id": 4115680712,
+      "image_id": 8985610708,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1306.3632977920001,
+      "bbox": [
+        293.71135999999996,
+        69.005056,
+        34.076672,
+        38.336
+      ]
+    },
+    {
+      "id": 4115680713,
+      "image_id": 8985610708,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1745.6943071232,
+      "bbox": [
+        286.895872,
+        165.27103999999997,
+        49.97888,
+        34.92864
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "Shot Hole",
+      "supercategory": "orange_leaf"
+    }
+  ]
+}

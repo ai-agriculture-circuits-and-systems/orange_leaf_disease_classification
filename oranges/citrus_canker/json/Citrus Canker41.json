@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6960157067,
+      "width": 512,
+      "height": 512,
+      "file_name": "Con_Citrus Canker41.jpeg",
+      "size": 49264,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 5354295067,
+      "image_id": 6960157067,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 1479.3695612108802,
+      "bbox": [
+        188.965888,
+        87.17235199999999,
+        44.689408,
+        33.10336
+      ]
+    },
+    {
+      "id": 5354295068,
+      "image_id": 6960157067,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 21362.51260259533,
+      "bbox": [
+        124.41344000000001,
+        123.58630400000001,
+        129.931264,
+        164.413952
+      ]
+    },
+    {
+      "id": 5354295069,
+      "image_id": 6960157067,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 17016.574195531775,
+      "bbox": [
+        261.79328000000004,
+        54.06899200000001,
+        100.137984,
+        169.931264
+      ]
+    },
+    {
+      "id": 5354295070,
+      "image_id": 6960157067,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 6147.662379220992,
+      "bbox": [
+        304.827648,
+        198.62067199999998,
+        54.620672,
+        112.551936
+      ]
+    },
+    {
+      "id": 5354295071,
+      "image_id": 6960157067,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 18234.73208131584,
+      "bbox": [
+        226.20697599999997,
+        250.482688,
+        129.10336,
+        141.241344
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "Citrus Canker",
+      "supercategory": "orange_leaf"
+    }
+  ]
+}

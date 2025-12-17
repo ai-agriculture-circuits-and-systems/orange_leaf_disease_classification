@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5350475828,
+      "width": 512,
+      "height": 512,
+      "file_name": "Con_Citrus Mealybugs59.jpeg",
+      "size": 52335,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 8149289828,
+      "image_id": 5350475828,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 2250.133294546944,
+      "bbox": [
+        280.827648,
+        232.827392,
+        63.724032,
+        35.310592
+      ]
+    },
+    {
+      "id": 8149289829,
+      "image_id": 5350475828,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 723.254497247232,
+      "bbox": [
+        208.000256,
+        334.34496,
+        19.862016,
+        36.413952
+      ]
+    },
+    {
+      "id": 8149289830,
+      "image_id": 5350475828,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 1315.01531594752,
+      "bbox": [
+        232.0,
+        303.44832,
+        29.79328,
+        44.137984
+      ]
+    },
+    {
+      "id": 8149289831,
+      "image_id": 5350475828,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 1123.2388474470401,
+      "bbox": [
+        262.620672,
+        274.758912,
+        33.931264,
+        33.10336
+      ]
+    },
+    {
+      "id": 8149289832,
+      "image_id": 5350475828,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 6276.415488000001,
+      "bbox": [
+        357.79328,
+        244.965376,
+        65.379328,
+        96.0
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 8,
+      "name": "Citrus Mealybugs",
+      "supercategory": "orange_leaf"
+    }
+  ]
+}

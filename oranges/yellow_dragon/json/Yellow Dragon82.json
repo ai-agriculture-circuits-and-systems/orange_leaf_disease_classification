@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3104635606,
+      "width": 512,
+      "height": 512,
+      "file_name": "Con_Yellow Dragon82.jpeg",
+      "size": 38408,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 8880253606,
+      "image_id": 3104635606,
+      "category_id": 4,
+      "segmentation": [],
+      "area": 5880.5644775915525,
+      "bbox": [
+        175.57939199999998,
+        140.56576,
+        67.017216,
+        87.747072
+      ]
+    },
+    {
+      "id": 8880253607,
+      "image_id": 3104635606,
+      "category_id": 4,
+      "segmentation": [],
+      "area": 5626.08109780992,
+      "bbox": [
+        238.05286400000003,
+        206.162944,
+        115.86048,
+        48.559104
+      ]
+    },
+    {
+      "id": 8880253608,
+      "image_id": 3104635606,
+      "category_id": 4,
+      "segmentation": [],
+      "area": 9598.345429909505,
+      "bbox": [
+        340.282624,
+        241.091584,
+        123.811328,
+        77.523968
+      ]
+    },
+    {
+      "id": 8880253609,
+      "image_id": 3104635606,
+      "category_id": 4,
+      "segmentation": [],
+      "area": 22219.78442006528,
+      "bbox": [
+        169.900032,
+        241.94329599999998,
+        146.52928,
+        151.640576
+      ]
+    },
+    {
+      "id": 8880253610,
+      "image_id": 3104635606,
+      "category_id": 4,
+      "segmentation": [],
+      "area": 7315.6152758108165,
+      "bbox": [
+        309.61382399999997,
+        339.061504,
+        102.229504,
+        71.560704
+      ]
+    },
+    {
+      "id": 8880253611,
+      "image_id": 3104635606,
+      "category_id": 4,
+      "segmentation": [],
+      "area": 5713.152501612543,
+      "bbox": [
+        83.572736,
+        126.083328,
+        81.783808,
+        69.856768
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 4,
+      "name": "Yellow Dragon",
+      "supercategory": "orange_leaf"
+    }
+  ]
+}

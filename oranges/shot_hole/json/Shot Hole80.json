@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5600550751,
+      "width": 512,
+      "height": 512,
+      "file_name": "Con_Shot Hole80.jpeg",
+      "size": 45603,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 3303496751,
+      "image_id": 5600550751,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 3083.8384235642884,
+      "bbox": [
+        67.361536,
+        236.53427200000002,
+        44.816896,
+        68.809728
+      ]
+    },
+    {
+      "id": 3303496752,
+      "image_id": 5600550751,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 585.29015136256,
+      "bbox": [
+        41.55776,
+        178.588672,
+        19.01312,
+        30.783488
+      ]
+    },
+    {
+      "id": 3303496753,
+      "image_id": 5600550751,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 774.6443123097599,
+      "bbox": [
+        108.782848,
+        101.630464,
+        23.766528,
+        32.59392
+      ]
+    },
+    {
+      "id": 3303496754,
+      "image_id": 5600550751,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1174.885597446144,
+      "bbox": [
+        165.822976,
+        226.574592,
+        26.482688,
+        44.364288
+      ]
+    },
+    {
+      "id": 3303496755,
+      "image_id": 5600550751,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 2733.420001886208,
+      "bbox": [
+        231.01107199999998,
+        127.88659200000001,
+        38.705664,
+        70.620672
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "Shot Hole",
+      "supercategory": "orange_leaf"
+    }
+  ]
+}

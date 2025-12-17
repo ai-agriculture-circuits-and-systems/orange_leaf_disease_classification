@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6596594726,
+      "width": 512,
+      "height": 512,
+      "file_name": "Con_Shot Hole7.jpeg",
+      "size": 55890,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 5698211726,
+      "image_id": 6596594726,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 3199.126603825152,
+      "bbox": [
+        110.834176,
+        230.86848,
+        65.881088,
+        48.559104
+      ]
+    },
+    {
+      "id": 5698211727,
+      "image_id": 6596594726,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 2148.2370210201602,
+      "bbox": [
+        173.307648,
+        380.80512,
+        42.02752,
+        51.115008
+      ]
+    },
+    {
+      "id": 5698211728,
+      "image_id": 6596594726,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 948.322194948096,
+      "bbox": [
+        253.955328,
+        271.760384,
+        31.804928,
+        29.816832
+      ]
+    },
+    {
+      "id": 5698211729,
+      "image_id": 6596594726,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 4967.088727523328,
+      "bbox": [
+        316.429056,
+        310.09664,
+        67.017216,
+        74.116608
+      ]
+    },
+    {
+      "id": 5698211730,
+      "image_id": 6596594726,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 990.9101618790401,
+      "bbox": [
+        301.662464,
+        456.625408,
+        36.348416,
+        27.26144
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "Shot Hole",
+      "supercategory": "orange_leaf"
+    }
+  ]
+}

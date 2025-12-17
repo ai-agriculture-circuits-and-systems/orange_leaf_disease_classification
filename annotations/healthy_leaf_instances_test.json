@@ -1,0 +1,2070 @@
+{
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "description": "Orange Leaf Disease Classification healthy_leaf test split",
+    "url": ""
+  },
+  "images": [
+    {
+      "id": 4639810890,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf377.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 8901484880,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf97.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 6819431529,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf173.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 6394763594,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf209.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 2961123384,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf326.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 9467570770,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf80.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 8795097010,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf245.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 7939824851,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf85.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 9057399917,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf88.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 5357282758,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf136.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 1550538392,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf382.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 8225306883,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf248.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 9386513642,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf122.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 6053320933,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf341.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 8206168417,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf75.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 9713553109,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf581.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 4974950085,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf366.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 5753444089,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf410.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 4056287714,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf514.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 7252571513,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf261.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 5917213331,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf330.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 3689899524,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf171.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 9284801208,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf345.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 9678406082,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf457.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 5562324208,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf358.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 2168504324,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf365.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 8579077889,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf141.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 8201275203,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf363.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 2988143526,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf452.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 1170849276,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf541.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 5433963943,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf461.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 1630035082,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf218.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 6657518371,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf2.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 8804851553,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf230.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 3955437903,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf188.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 3175323621,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf458.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 9080352434,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf572.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 8587365549,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf124.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 4304442645,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf445.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 2792373329,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf464.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 8927048803,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf73.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 8397658802,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf510.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 1041053466,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf333.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 4555109242,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf286.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 3588373583,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf449.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 9373345276,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf112.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 4033160440,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf199.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 7765856855,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf168.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 1544408549,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf360.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 4717636209,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf18.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 7035386163,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf237.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 9680725274,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf26.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 5352766554,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf212.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 6957007357,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf362.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 6039939390,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf46.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 5600794503,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf416.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 3373129304,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf312.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 5235710315,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf448.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 8766644466,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf399.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 2588230663,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf432.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 5990526952,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf436.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 5831944316,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf104.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 8588964389,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf25.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 8475066012,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf92.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 7087670487,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf235.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 4782946200,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf222.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 5766246928,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf193.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 9349666072,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf167.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 3352492579,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf153.jpeg",
+      "width": 640,
+      "height": 480
+    },
+    {
+      "id": 1061203573,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf437.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 6895125010,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf206.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 3264142123,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf57.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 6198650741,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf387.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 3812640259,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf354.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 1010195601,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf462.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 4735355024,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf589.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 8192861747,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf150.jpeg",
+      "width": 640,
+      "height": 480
+    },
+    {
+      "id": 3135202996,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf459.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 1628862493,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf523.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 8692606785,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf298.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 6754549536,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf14.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 2284353458,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf383.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 4537425769,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf201.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 2814753458,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf509.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 2643284753,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf213.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 7689984181,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf205.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 1610484551,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf319.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 3371343779,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf184.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 8307395385,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf35.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 6221515766,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf152.jpeg",
+      "width": 640,
+      "height": 480
+    },
+    {
+      "id": 2302768413,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf268.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 9761646906,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf60.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 7582912901,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf375.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 5029898488,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf50.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 1861992437,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf42.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 2035195360,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf339.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 7321675864,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf486.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 9095969454,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf226.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 2024682267,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf162.jpeg",
+      "width": 640,
+      "height": 480
+    },
+    {
+      "id": 2197616003,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf4.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 6149680978,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf466.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 2382098241,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf47.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 3884981770,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf240.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 8115239508,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf578.jpeg",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "id": 1662163201,
+      "file_name": "oranges/healthy_leaf/images/Healthy Leaf552.jpeg",
+      "width": 480,
+      "height": 640
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 4639810890,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 8901484880,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 6819431529,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 6394763594,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 2961123384,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 9467570770,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 8795097010,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 7939824851,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 9057399917,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 5357282758,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 1550538392,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 8225306883,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 9386513642,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 14,
+      "image_id": 6053320933,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 15,
+      "image_id": 8206168417,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 16,
+      "image_id": 9713553109,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 17,
+      "image_id": 4974950085,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 18,
+      "image_id": 5753444089,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 19,
+      "image_id": 4056287714,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 20,
+      "image_id": 7252571513,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 21,
+      "image_id": 5917213331,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 22,
+      "image_id": 3689899524,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 23,
+      "image_id": 9284801208,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 24,
+      "image_id": 9678406082,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 25,
+      "image_id": 5562324208,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 26,
+      "image_id": 2168504324,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 27,
+      "image_id": 8579077889,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 28,
+      "image_id": 8201275203,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 29,
+      "image_id": 2988143526,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 30,
+      "image_id": 1170849276,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 31,
+      "image_id": 5433963943,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 32,
+      "image_id": 1630035082,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 33,
+      "image_id": 6657518371,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 34,
+      "image_id": 8804851553,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 35,
+      "image_id": 3955437903,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 36,
+      "image_id": 3175323621,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 37,
+      "image_id": 9080352434,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 38,
+      "image_id": 8587365549,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 39,
+      "image_id": 4304442645,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 40,
+      "image_id": 2792373329,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 41,
+      "image_id": 8927048803,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 42,
+      "image_id": 8397658802,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 43,
+      "image_id": 1041053466,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 44,
+      "image_id": 4555109242,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 45,
+      "image_id": 3588373583,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 46,
+      "image_id": 9373345276,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 47,
+      "image_id": 4033160440,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 48,
+      "image_id": 7765856855,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 49,
+      "image_id": 1544408549,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 50,
+      "image_id": 4717636209,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 51,
+      "image_id": 7035386163,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 52,
+      "image_id": 9680725274,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 53,
+      "image_id": 5352766554,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 54,
+      "image_id": 6957007357,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 55,
+      "image_id": 6039939390,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 56,
+      "image_id": 5600794503,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 57,
+      "image_id": 3373129304,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 58,
+      "image_id": 5235710315,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 59,
+      "image_id": 8766644466,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 60,
+      "image_id": 2588230663,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 61,
+      "image_id": 5990526952,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 62,
+      "image_id": 5831944316,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 63,
+      "image_id": 8588964389,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 64,
+      "image_id": 8475066012,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 65,
+      "image_id": 7087670487,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 66,
+      "image_id": 4782946200,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 67,
+      "image_id": 5766246928,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 68,
+      "image_id": 9349666072,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 69,
+      "image_id": 3352492579,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        640.0,
+        480.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 70,
+      "image_id": 1061203573,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 71,
+      "image_id": 6895125010,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 72,
+      "image_id": 3264142123,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 73,
+      "image_id": 6198650741,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 74,
+      "image_id": 3812640259,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 75,
+      "image_id": 1010195601,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 76,
+      "image_id": 4735355024,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 77,
+      "image_id": 8192861747,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        640.0,
+        480.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 78,
+      "image_id": 3135202996,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 79,
+      "image_id": 1628862493,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 80,
+      "image_id": 8692606785,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 81,
+      "image_id": 6754549536,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 82,
+      "image_id": 2284353458,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 83,
+      "image_id": 4537425769,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 84,
+      "image_id": 2814753458,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 85,
+      "image_id": 2643284753,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 86,
+      "image_id": 7689984181,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 87,
+      "image_id": 1610484551,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 88,
+      "image_id": 3371343779,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 89,
+      "image_id": 8307395385,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 90,
+      "image_id": 6221515766,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        640.0,
+        480.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 91,
+      "image_id": 2302768413,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 92,
+      "image_id": 9761646906,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 93,
+      "image_id": 7582912901,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 94,
+      "image_id": 5029898488,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 95,
+      "image_id": 1861992437,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 96,
+      "image_id": 2035195360,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 97,
+      "image_id": 7321675864,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 98,
+      "image_id": 9095969454,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 99,
+      "image_id": 2024682267,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        640.0,
+        480.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 100,
+      "image_id": 2197616003,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 101,
+      "image_id": 6149680978,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 102,
+      "image_id": 2382098241,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 103,
+      "image_id": 3884981770,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 104,
+      "image_id": 8115239508,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 105,
+      "image_id": 1662163201,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        640.0
+      ],
+      "area": 307200.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "background",
+      "supercategory": "background"
+    },
+    {
+      "id": 1,
+      "name": "healthy_leaf",
+      "supercategory": "orange_leaf"
+    },
+    {
+      "id": 2,
+      "name": "citrus_canker",
+      "supercategory": "orange_leaf"
+    },
+    {
+      "id": 3,
+      "name": "citrus_greening",
+      "supercategory": "orange_leaf"
+    },
+    {
+      "id": 4,
+      "name": "yellow_dragon",
+      "supercategory": "orange_leaf"
+    },
+    {
+      "id": 5,
+      "name": "powdery_mildew",
+      "supercategory": "orange_leaf"
+    },
+    {
+      "id": 6,
+      "name": "shot_hole",
+      "supercategory": "orange_leaf"
+    },
+    {
+      "id": 7,
+      "name": "die_back",
+      "supercategory": "orange_leaf"
+    },
+    {
+      "id": 8,
+      "name": "citrus_mealybugs",
+      "supercategory": "orange_leaf"
+    },
+    {
+      "id": 9,
+      "name": "spiny_whitefly",
+      "supercategory": "orange_leaf"
+    },
+    {
+      "id": 10,
+      "name": "yellow_leaves",
+      "supercategory": "orange_leaf"
+    },
+    {
+      "id": 11,
+      "name": "foliage_damaged",
+      "supercategory": "orange_leaf"
+    }
+  ],
+  "licenses": []
+}
