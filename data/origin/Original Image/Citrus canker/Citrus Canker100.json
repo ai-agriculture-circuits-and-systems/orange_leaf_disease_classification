@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5049920915,
+      "width": 512,
+      "height": 512,
+      "file_name": "Citrus Canker100.jpeg",
+      "size": 489218,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 7118497915,
+      "image_id": 5049920915,
+      "category_id": 0,
+      "segmentation": [],
+      "area": 1954.64766947328,
+      "bbox": [
+        210.39052800000002,
+        212.965376,
+        41.19552,
+        47.448064
+      ]
+    },
+    {
+      "id": 7118497916,
+      "image_id": 5049920915,
+      "category_id": 0,
+      "segmentation": [],
+      "area": 2522.8584655257605,
+      "bbox": [
+        254.52851200000003,
+        220.689664,
+        61.79328,
+        40.827392
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "Citrus canker",
+      "supercategory": "Augmented Image"
+    }
+  ]
+}
