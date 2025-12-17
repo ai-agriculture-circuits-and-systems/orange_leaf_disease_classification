@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8181373283,
+      "width": 512,
+      "height": 512,
+      "file_name": "Citrus Greening59.jpeg",
+      "size": 355876,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 2338451283,
+      "image_id": 8181373283,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 9750.490134347776,
+      "bbox": [
+        105.931264,
+        260.41369599999996,
+        133.884928,
+        72.827392
+      ]
+    },
+    {
+      "id": 2338451284,
+      "image_id": 8181373283,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 3123.550674747392,
+      "bbox": [
+        200.09216,
+        204.137728,
+        54.436864,
+        57.379328
+      ]
+    },
+    {
+      "id": 2338451285,
+      "image_id": 8181373283,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 5045.74856921088,
+      "bbox": [
+        288.367616,
+        243.86176,
+        61.79328,
+        81.655296
+      ]
+    },
+    {
+      "id": 2338451286,
+      "image_id": 8181373283,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 5402.888936357887,
+      "bbox": [
+        86.80448000000001,
+        371.862272,
+        94.160896,
+        57.379328
+      ]
+    },
+    {
+      "id": 2338451287,
+      "image_id": 8181373283,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 3500.179852099584,
+      "bbox": [
+        211.86176,
+        372.965632,
+        64.735744,
+        54.068736
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 9,
+      "name": "Citrus greening",
+      "supercategory": "Augmented Image"
+    }
+  ]
+}

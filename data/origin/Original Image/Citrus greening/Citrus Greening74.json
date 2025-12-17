@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2330981321,
+      "width": 512,
+      "height": 512,
+      "file_name": "Citrus Greening74.jpeg",
+      "size": 264557,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1411260321,
+      "image_id": 2330981321,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 10339.247745662975,
+      "bbox": [
+        115.310336,
+        147.862016,
+        84.413952,
+        122.482688
+      ]
+    },
+    {
+      "id": 1411260322,
+      "image_id": 2330981321,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 2709.44387989504,
+      "bbox": [
+        60.68992,
+        222.89664000000002,
+        57.10336,
+        47.448064
+      ]
+    },
+    {
+      "id": 1411260323,
+      "image_id": 2330981321,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 3336.818688,
+      "bbox": [
+        102.89638400000001,
+        282.48294400000003,
+        72.0,
+        46.344704
+      ]
+    },
+    {
+      "id": 1411260324,
+      "image_id": 2330981321,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 8208.740142546945,
+      "bbox": [
+        212.965376,
+        157.79328,
+        73.655296,
+        111.448064
+      ]
+    },
+    {
+      "id": 1411260325,
+      "image_id": 2330981321,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 8817.848110546944,
+      "bbox": [
+        193.93075199999998,
+        288.00025600000004,
+        112.551936,
+        78.344704
+      ]
+    },
+    {
+      "id": 1411260326,
+      "image_id": 2330981321,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 5775.092060258303,
+      "bbox": [
+        318.896384,
+        285.793024,
+        84.413952,
+        68.413952
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 9,
+      "name": "Citrus greening",
+      "supercategory": "Augmented Image"
+    }
+  ]
+}

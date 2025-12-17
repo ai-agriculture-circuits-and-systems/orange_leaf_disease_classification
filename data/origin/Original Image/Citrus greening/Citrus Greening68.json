@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8264282305,
+      "width": 512,
+      "height": 512,
+      "file_name": "Citrus Greening68.jpeg",
+      "size": 398268,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1695474305,
+      "image_id": 8264282305,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 11758.362624000001,
+      "bbox": [
+        208.82739199999997,
+        169.931008,
+        144.0,
+        81.655296
+      ]
+    },
+    {
+      "id": 1695474306,
+      "image_id": 8264282305,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 5391.505790337023,
+      "bbox": [
+        209.65503999999999,
+        262.620672,
+        59.586048,
+        90.482688
+      ]
+    },
+    {
+      "id": 1695474307,
+      "image_id": 8264282305,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 2547.842633695232,
+      "bbox": [
+        301.517312,
+        289.10335999999995,
+        25.655296,
+        99.310592
+      ]
+    },
+    {
+      "id": 1695474308,
+      "image_id": 8264282305,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 6107.4750767104,
+      "bbox": [
+        337.103616,
+        304.55168000000003,
+        62.89664,
+        97.10336
+      ]
+    },
+    {
+      "id": 1695474309,
+      "image_id": 8264282305,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 2923.1652455055364,
+      "bbox": [
+        318.068992,
+        267.03436800000003,
+        80.275968,
+        36.413952
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 9,
+      "name": "Citrus greening",
+      "supercategory": "Augmented Image"
+    }
+  ]
+}

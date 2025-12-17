@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5790740199,
+      "width": 512,
+      "height": 512,
+      "file_name": "Citrus Greening27.jpeg",
+      "size": 395117,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 6177227199,
+      "image_id": 5790740199,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 10636.941265731584,
+      "bbox": [
+        178.023168,
+        156.689664,
+        57.379328,
+        185.379328
+      ]
+    },
+    {
+      "id": 6177227200,
+      "image_id": 5790740199,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 8830.041540526081,
+      "bbox": [
+        230.988544,
+        165.517312,
+        72.09216,
+        122.482688
+      ]
+    },
+    {
+      "id": 6177227201,
+      "image_id": 5790740199,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 7597.823583584256,
+      "bbox": [
+        120.64384000000001,
+        173.241088,
+        57.379328,
+        132.413952
+      ]
+    },
+    {
+      "id": 6177227202,
+      "image_id": 5790740199,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 5727.558813089792,
+      "bbox": [
+        175.080704,
+        348.689664,
+        123.586048,
+        46.344704
+      ]
+    },
+    {
+      "id": 6177227203,
+      "image_id": 5790740199,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 3824.904153858048,
+      "bbox": [
+        250.11481600000002,
+        296.82764799999995,
+        91.218432,
+        41.931264
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 9,
+      "name": "Citrus greening",
+      "supercategory": "Augmented Image"
+    }
+  ]
+}

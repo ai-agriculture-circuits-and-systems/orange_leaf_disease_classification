@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3242999292,
+      "width": 512,
+      "height": 512,
+      "file_name": "Citrus Greening62.jpeg",
+      "size": 363179,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 3100839292,
+      "image_id": 3242999292,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 5091.2126042112,
+      "bbox": [
+        197.149184,
+        134.620672,
+        82.39104,
+        61.79328
+      ]
+    },
+    {
+      "id": 3100839293,
+      "image_id": 3242999292,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 9205.039980609536,
+      "bbox": [
+        245.70111999999997,
+        71.724032,
+        92.689408,
+        99.310592
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 9,
+      "name": "Citrus greening",
+      "supercategory": "Augmented Image"
+    }
+  ]
+}

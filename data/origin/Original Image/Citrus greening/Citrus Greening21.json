@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4798651106,
+      "width": 512,
+      "height": 512,
+      "file_name": "Citrus Greening21.jpeg",
+      "size": 472061,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 3583767106,
+      "image_id": 4798651106,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 5268.11250294784,
+      "bbox": [
+        169.19552,
+        124.68992,
+        86.80448,
+        60.689408
+      ]
+    },
+    {
+      "id": 3583767107,
+      "image_id": 4798651106,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 4216.122585120768,
+      "bbox": [
+        270.712576,
+        153.379584,
+        77.977088,
+        54.068736
+      ]
+    },
+    {
+      "id": 3583767108,
+      "image_id": 4798651106,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 13247.48892536832,
+      "bbox": [
+        157.42515200000003,
+        196.41395200000002,
+        141.241344,
+        93.79328
+      ]
+    },
+    {
+      "id": 3583767109,
+      "image_id": 4798651106,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 14318.979329294336,
+      "bbox": [
+        157.425408,
+        303.448064,
+        144.183808,
+        99.310592
+      ]
+    },
+    {
+      "id": 3583767110,
+      "image_id": 4798651106,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 2795.61103736832,
+      "bbox": [
+        316.321792,
+        227.31059199999999,
+        61.79328,
+        45.241344
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 9,
+      "name": "Citrus greening",
+      "supercategory": "Augmented Image"
+    }
+  ]
+}
