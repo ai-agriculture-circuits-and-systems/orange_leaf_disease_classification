@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9010794987,
+      "width": 512,
+      "height": 512,
+      "file_name": "Yellow Dragon9.jpeg",
+      "size": 724583,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 7105049987,
+      "image_id": 9010794987,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 9571.2407977984,
+      "bbox": [
+        153.99782399999998,
+        340.76544,
+        178.333696,
+        53.6704
+      ]
+    },
+    {
+      "id": 7105049988,
+      "image_id": 9010794987,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 13032.639846940672,
+      "bbox": [
+        173.30739200000002,
+        202.755584,
+        168.111104,
+        77.523968
+      ]
+    },
+    {
+      "id": 7105049989,
+      "image_id": 9010794987,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 10709.239586619393,
+      "bbox": [
+        57.447424,
+        281.983488,
+        135.170048,
+        79.227904
+      ]
+    },
+    {
+      "id": 7105049990,
+      "image_id": 9010794987,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 3503.96491628544,
+      "bbox": [
+        284.624128,
+        288.79846399999997,
+        80.64768,
+        43.447808
+      ]
+    },
+    {
+      "id": 7105049991,
+      "image_id": 9010794987,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 5786.687219171328,
+      "bbox": [
+        15.419904000000002,
+        367.174912,
+        104.501248,
+        55.374336
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 3,
+      "name": "Yellow dragon",
+      "supercategory": "Augmented Image"
+    }
+  ]
+}

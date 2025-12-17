@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5563286684,
+      "width": 512,
+      "height": 512,
+      "file_name": "Yellow Dragon3.jpeg",
+      "size": 466253,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 9816898684,
+      "image_id": 5563286684,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 28623.827848658944,
+      "bbox": [
+        26.778368,
+        152.492544,
+        197.643776,
+        144.825344
+      ]
+    },
+    {
+      "id": 9816898685,
+      "image_id": 5563286684,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 20199.26012120269,
+      "bbox": [
+        243.73222399999997,
+        170.382848,
+        161.295872,
+        125.231104
+      ]
+    },
+    {
+      "id": 9816898686,
+      "image_id": 5563286684,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 11699.180204457984,
+      "bbox": [
+        224.42239999999998,
+        293.91001600000004,
+        147.664896,
+        79.227904
+      ]
+    },
+    {
+      "id": 9816898687,
+      "image_id": 5563286684,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 7909.77047298048,
+      "bbox": [
+        418.65855999999997,
+        279.42784,
+        76.104192,
+        103.93344
+      ]
+    },
+    {
+      "id": 9816898688,
+      "image_id": 5563286684,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 3257.220296081408,
+      "bbox": [
+        356.18483200000003,
+        356.95180799999997,
+        74.968576,
+        43.447808
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 3,
+      "name": "Yellow dragon",
+      "supercategory": "Augmented Image"
+    }
+  ]
+}

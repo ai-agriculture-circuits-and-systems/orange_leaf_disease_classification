@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8078692635,
+      "width": 512,
+      "height": 512,
+      "file_name": "Yellow Dragon27.jpeg",
+      "size": 852264,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 7168208635,
+      "image_id": 8078692635,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 8194.275258925056,
+      "bbox": [
+        142.63859200000002,
+        289.650688,
+        82.919424,
+        98.822144
+      ]
+    },
+    {
+      "id": 7168208636,
+      "image_id": 8078692635,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 7025.294243528705,
+      "bbox": [
+        232.37350400000003,
+        305.83680000000004,
+        68.152832,
+        103.081472
+      ]
+    },
+    {
+      "id": 7168208637,
+      "image_id": 8078692635,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 5956.9977950208,
+      "bbox": [
+        169.900032,
+        195.940096,
+        86.327296,
+        69.0048
+      ]
+    },
+    {
+      "id": 7168208638,
+      "image_id": 8078692635,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 4683.566425571328,
+      "bbox": [
+        328.923904,
+        193.384192,
+        62.473728,
+        74.968576
+      ]
+    },
+    {
+      "id": 7168208639,
+      "image_id": 8078692635,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 4244.2381787136,
+      "bbox": [
+        288.032,
+        256.425728,
+        57.93024,
+        73.26464
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 3,
+      "name": "Yellow dragon",
+      "supercategory": "Augmented Image"
+    }
+  ]
+}

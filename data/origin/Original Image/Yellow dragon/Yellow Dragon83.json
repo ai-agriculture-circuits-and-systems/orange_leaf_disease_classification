@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2486222972,
+      "width": 512,
+      "height": 512,
+      "file_name": "Yellow Dragon83.jpeg",
+      "size": 343614,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 9841740972,
+      "image_id": 2486222972,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 9510.332833726465,
+      "bbox": [
+        172.17177600000002,
+        177.19808,
+        143.121408,
+        66.449408
+      ]
+    },
+    {
+      "id": 9841740973,
+      "image_id": 2486222972,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 12645.536268288002,
+      "bbox": [
+        193.75334399999997,
+        318.615808,
+        149.93664,
+        84.3392
+      ]
+    },
+    {
+      "id": 9841740974,
+      "image_id": 2486222972,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 10160.566594437121,
+      "bbox": [
+        156.269312,
+        230.86873599999998,
+        119.26784,
+        85.191168
+      ]
+    },
+    {
+      "id": 9841740975,
+      "image_id": 2486222972,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 14265.478313934847,
+      "bbox": [
+        331.195648,
+        229.1648,
+        132.898304,
+        107.341312
+      ]
+    },
+    {
+      "id": 9841740976,
+      "image_id": 2486222972,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 9928.329658368,
+      "bbox": [
+        65.398272,
+        135.454208,
+        107.90912,
+        92.0064
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 3,
+      "name": "Yellow dragon",
+      "supercategory": "Augmented Image"
+    }
+  ]
+}

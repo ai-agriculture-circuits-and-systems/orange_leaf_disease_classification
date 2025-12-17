@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5706665425,
+      "width": 512,
+      "height": 512,
+      "file_name": "Yellow Dragon15.jpeg",
+      "size": 630668,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 2026687425,
+      "image_id": 5706665425,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 3746.8454636748797,
+      "bbox": [
+        142.638848,
+        265.796864,
+        49.97888,
+        74.968576
+      ]
+    },
+    {
+      "id": 2026687426,
+      "image_id": 5706665425,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 5159.622193446912,
+      "bbox": [
+        186.938112,
+        225.75692800000002,
+        97.686016,
+        52.818432
+      ]
+    },
+    {
+      "id": 2026687427,
+      "image_id": 5706665425,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 4683.566425571328,
+      "bbox": [
+        227.83001600000003,
+        305.8368,
+        62.473728,
+        74.968576
+      ]
+    },
+    {
+      "id": 2026687428,
+      "image_id": 5706665425,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 5439.280713302016,
+      "bbox": [
+        297.119232,
+        281.983488,
+        87.462912,
+        62.189568
+      ]
+    },
+    {
+      "id": 2026687429,
+      "image_id": 5706665425,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 6059.560384856064,
+      "bbox": [
+        316.429056,
+        356.95180799999997,
+        114.724352,
+        52.818432
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 3,
+      "name": "Yellow dragon",
+      "supercategory": "Augmented Image"
+    }
+  ]
+}

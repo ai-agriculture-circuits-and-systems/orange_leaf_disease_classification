@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7660679920,
+      "width": 512,
+      "height": 512,
+      "file_name": "Yellow Dragon60.jpeg",
+      "size": 491412,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 7565708920,
+      "image_id": 7660679920,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 7824.602126876672,
+      "bbox": [
+        220.146432,
+        136.035328,
+        60.434944,
+        129.471488
+      ]
+    },
+    {
+      "id": 7565708921,
+      "image_id": 7660679920,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 3814.2405312512,
+      "bbox": [
+        183.478016,
+        269.127936,
+        44.816896,
+        85.1072
+      ]
+    },
+    {
+      "id": 7565708922,
+      "image_id": 7660679920,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 6748.059078492161,
+      "bbox": [
+        222.86259199999998,
+        319.830272,
+        66.546176,
+        101.40416
+      ]
+    },
+    {
+      "id": 7565708923,
+      "image_id": 7660679920,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 6917.7447064535045,
+      "bbox": [
+        322.682112,
+        196.696576,
+        65.867264,
+        105.025536
+      ]
+    },
+    {
+      "id": 7565708924,
+      "image_id": 7660679920,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 3457.6696522833918,
+      "bbox": [
+        279.223296,
+        280.898048,
+        51.607552,
+        66.999296
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 3,
+      "name": "Yellow dragon",
+      "supercategory": "Augmented Image"
+    }
+  ]
+}

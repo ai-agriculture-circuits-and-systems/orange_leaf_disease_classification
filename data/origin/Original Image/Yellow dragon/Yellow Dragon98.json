@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9699219006,
+      "width": 512,
+      "height": 512,
+      "file_name": "Yellow Dragon98.jpeg",
+      "size": 430925,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 5061371006,
+      "image_id": 9699219006,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 25666.811887878146,
+      "bbox": [
+        131.870464,
+        144.183808,
+        289.273344,
+        88.728576
+      ]
+    },
+    {
+      "id": 5061371007,
+      "image_id": 9699219006,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 35153.20039479706,
+      "bbox": [
+        78.904832,
+        49.117439999999995,
+        343.597056,
+        102.309376
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 3,
+      "name": "Yellow dragon",
+      "supercategory": "Augmented Image"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6108880652,
+      "width": 512,
+      "height": 512,
+      "file_name": "Yellow Dragon28.jpeg",
+      "size": 671527,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 9368539652,
+      "image_id": 6108880652,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 6812.40442437632,
+      "bbox": [
+        196.025344,
+        195.088128,
+        99.95776,
+        68.152832
+      ]
+    },
+    {
+      "id": 9368539653,
+      "image_id": 6108880652,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 7484.951655088128,
+      "bbox": [
+        152.861696,
+        306.68876800000004,
+        73.832448,
+        101.377536
+      ]
+    },
+    {
+      "id": 9368539654,
+      "image_id": 6108880652,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 11548.290459893758,
+      "bbox": [
+        194.889216,
+        345.025024,
+        115.86048,
+        99.674112
+      ]
+    },
+    {
+      "id": 9368539655,
+      "image_id": 6108880652,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 4679.663968845824,
+      "bbox": [
+        306.205952,
+        292.206592,
+        59.065856,
+        79.227904
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 3,
+      "name": "Yellow dragon",
+      "supercategory": "Augmented Image"
+    }
+  ]
+}

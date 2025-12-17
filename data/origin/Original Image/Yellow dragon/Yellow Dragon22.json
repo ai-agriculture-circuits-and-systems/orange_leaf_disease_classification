@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7086732547,
+      "width": 512,
+      "height": 512,
+      "file_name": "Yellow Dragon22.jpeg",
+      "size": 829774,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1232004547,
+      "image_id": 7086732547,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 2259.410186928128,
+      "bbox": [
+        196.37990399999998,
+        55.455232,
+        33.273344,
+        67.904512
+      ]
+    },
+    {
+      "id": 1232004548,
+      "image_id": 7086732547,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 3762.603186192384,
+      "bbox": [
+        224.220672,
+        107.96825600000001,
+        46.175232,
+        81.485312
+      ]
+    },
+    {
+      "id": 1232004549,
+      "image_id": 7086732547,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 8232.223486771201,
+      "bbox": [
+        288.729856,
+        167.724288,
+        69.94176,
+        117.70112
+      ]
+    },
+    {
+      "id": 1232004550,
+      "image_id": 7086732547,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 6632.478546591744,
+      "bbox": [
+        332.188672,
+        101.630464,
+        78.769152,
+        84.201472
+      ]
+    },
+    {
+      "id": 1232004551,
+      "image_id": 7086732547,
+      "category_id": 8,
+      "segmentation": [],
+      "area": 8413.588226048,
+      "bbox": [
+        374.968576,
+        196.696576,
+        80.8064,
+        104.12032
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 3,
+      "name": "Yellow dragon",
+      "supercategory": "Augmented Image"
+    }
+  ]
+}
