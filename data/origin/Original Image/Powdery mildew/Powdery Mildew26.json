@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2672565613,
+      "width": 512,
+      "height": 512,
+      "file_name": "Powdery Mildew26.jpeg",
+      "size": 748787,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 5446488613,
+      "image_id": 2672565613,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 8264.052095582208,
+      "bbox": [
+        0.0,
+        23.766272000000008,
+        70.756352,
+        116.795904
+      ]
+    },
+    {
+      "id": 5446488614,
+      "image_id": 2672565613,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 9841.763174842368,
+      "bbox": [
+        92.486144,
+        13.807104000000002,
+        78.769152,
+        124.944384
+      ]
+    },
+    {
+      "id": 5446488615,
+      "image_id": 2672565613,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 10340.366942208,
+      "bbox": [
+        190.947328,
+        98.91430400000002,
+        94.3872,
+        109.55264
+      ]
+    },
+    {
+      "id": 5446488616,
+      "image_id": 2672565613,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 19379.22105278464,
+      "bbox": [
+        163.10630400000002,
+        178.588672,
+        160.933888,
+        120.41728
+      ]
+    },
+    {
+      "id": 5446488617,
+      "image_id": 2672565613,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 8676.07630577664,
+      "bbox": [
+        78.22592,
+        135.12985600000002,
+        99.81952,
+        86.917632
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 8,
+      "name": "Powdery mildew",
+      "supercategory": "Augmented Image"
+    }
+  ]
+}

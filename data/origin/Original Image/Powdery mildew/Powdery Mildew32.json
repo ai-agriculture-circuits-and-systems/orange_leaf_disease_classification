@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6144429715,
+      "width": 512,
+      "height": 512,
+      "file_name": "Powdery Mildew32.jpeg",
+      "size": 717758,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 4202030715,
+      "image_id": 6144429715,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 11107.665831002112,
+      "bbox": [
+        171.25504,
+        118.83289599999999,
+        137.846272,
+        80.580096
+      ]
+    },
+    {
+      "id": 4202030716,
+      "image_id": 6144429715,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 10556.15422169088,
+      "bbox": [
+        173.29228799999999,
+        207.56147199999998,
+        137.16736,
+        76.958208
+      ]
+    },
+    {
+      "id": 4202030717,
+      "image_id": 6144429715,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 13390.4274030592,
+      "bbox": [
+        296.199168,
+        143.278592,
+        67.2256,
+        199.186432
+      ]
+    },
+    {
+      "id": 4202030718,
+      "image_id": 6144429715,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 19073.632858800127,
+      "bbox": [
+        367.499008,
+        121.549312,
+        76.052992,
+        250.793984
+      ]
+    },
+    {
+      "id": 4202030719,
+      "image_id": 6144429715,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 9041.256499380224,
+      "bbox": [
+        453.059072,
+        219.33184,
+        58.397696,
+        154.822144
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 8,
+      "name": "Powdery mildew",
+      "supercategory": "Augmented Image"
+    }
+  ]
+}

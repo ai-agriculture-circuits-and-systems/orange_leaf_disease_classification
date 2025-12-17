@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8702762095,
+      "width": 512,
+      "height": 512,
+      "file_name": "Powdery Mildew54.jpeg",
+      "size": 781616,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 7415615095,
+      "image_id": 8702762095,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 20604.71263035392,
+      "bbox": [
+        185.80224,
+        27.261184,
+        121.539584,
+        169.53088
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 8,
+      "name": "Powdery mildew",
+      "supercategory": "Augmented Image"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4710040746,
+      "width": 512,
+      "height": 512,
+      "file_name": "Powdery Mildew34.jpeg",
+      "size": 897105,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 9086364746,
+      "image_id": 4710040746,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 2862.39525961728,
+      "bbox": [
+        177.851136,
+        276.87168,
+        57.93024,
+        49.411072
+      ]
+    },
+    {
+      "id": 9086364747,
+      "image_id": 4710040746,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 1254.1056253952,
+      "bbox": [
+        222.1504,
+        152.492544,
+        40.891904,
+        30.6688
+      ]
+    },
+    {
+      "id": 9086364748,
+      "image_id": 4710040746,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 7568.1490993152,
+      "bbox": [
+        143.77446400000002,
+        189.124864,
+        89.734656,
+        84.3392
+      ]
+    },
+    {
+      "id": 9086364749,
+      "image_id": 4710040746,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 3773.9178185195524,
+      "bbox": [
+        113.10566400000002,
+        285.39110400000004,
+        68.152832,
+        55.374336
+      ]
+    },
+    {
+      "id": 9086364750,
+      "image_id": 4710040746,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 15968.585962749952,
+      "bbox": [
+        244.86835199999996,
+        185.71724799999998,
+        84.055552,
+        189.976576
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 8,
+      "name": "Powdery mildew",
+      "supercategory": "Augmented Image"
+    }
+  ]
+}

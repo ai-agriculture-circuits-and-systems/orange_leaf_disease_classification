@@ -1,0 +1,139 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8713471295,
+      "width": 512,
+      "height": 512,
+      "file_name": "Powdery Mildew88.jpeg",
+      "size": 491490,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 7743283295,
+      "image_id": 8713471295,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 4075.8472081408004,
+      "bbox": [
+        387.990016,
+        106.48934399999999,
+        61.3376,
+        66.449408
+      ]
+    },
+    {
+      "id": 7743283296,
+      "image_id": 8713471295,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 1277.331063701504,
+      "bbox": [
+        269.85779199999996,
+        138.86182399999998,
+        34.076672,
+        37.484032
+      ]
+    },
+    {
+      "id": 7743283297,
+      "image_id": 8713471295,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 2746.276210016256,
+      "bbox": [
+        192.617728,
+        107.341056,
+        48.843264,
+        56.226304
+      ]
+    },
+    {
+      "id": 7743283298,
+      "image_id": 8713471295,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 2001.1511565516798,
+      "bbox": [
+        165.356288,
+        277.723904,
+        49.97888,
+        40.039936
+      ]
+    },
+    {
+      "id": 7743283299,
+      "image_id": 8713471295,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 2003.093297823744,
+      "bbox": [
+        345.96198400000003,
+        328.83840000000004,
+        51.115008,
+        39.187968
+      ]
+    },
+    {
+      "id": 7743283300,
+      "image_id": 8713471295,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 1564.728633851904,
+      "bbox": [
+        444.78387200000003,
+        268.35276799999997,
+        37.484032,
+        41.743872
+      ]
+    },
+    {
+      "id": 7743283301,
+      "image_id": 8713471295,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 1486.355937624064,
+      "bbox": [
+        174.443264,
+        410.622208,
+        36.348416,
+        40.891904
+      ]
+    },
+    {
+      "id": 7743283302,
+      "image_id": 8713471295,
+      "category_id": 5,
+      "segmentation": [],
+      "area": 1097.3404594176,
+      "bbox": [
+        253.955584,
+        395.287808,
+        47.707136,
+        23.0016
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 8,
+      "name": "Powdery mildew",
+      "supercategory": "Augmented Image"
+    }
+  ]
+}
