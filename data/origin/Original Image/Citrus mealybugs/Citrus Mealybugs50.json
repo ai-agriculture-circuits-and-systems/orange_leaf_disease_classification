@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7859542123,
+      "width": 512,
+      "height": 512,
+      "file_name": "Citrus Mealybugs50.jpeg",
+      "size": 653953,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 4918920123,
+      "image_id": 7859542123,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 5201.562630094848,
+      "bbox": [
+        166.25279999999998,
+        186.482688,
+        130.942464,
+        39.724032
+      ]
+    },
+    {
+      "id": 4918920124,
+      "image_id": 7859542123,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 2925.474355347456,
+      "bbox": [
+        270.712576,
+        171.034624,
+        50.022912,
+        58.482688
+      ]
+    },
+    {
+      "id": 4918920125,
+      "image_id": 7859542123,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 1941.647722020864,
+      "bbox": [
+        111.816192,
+        222.89664,
+        67.678208,
+        28.689408
+      ]
+    },
+    {
+      "id": 4918920126,
+      "image_id": 7859542123,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 2289.0703316582403,
+      "bbox": [
+        48.55168,
+        236.13772799999998,
+        69.149184,
+        33.10336
+      ]
+    },
+    {
+      "id": 4918920127,
+      "image_id": 7859542123,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 2272.8590032896,
+      "bbox": [
+        356.04607999999996,
+        201.931008,
+        51.4944,
+        44.137984
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Citrus mealybugs",
+      "supercategory": "Augmented Image"
+    }
+  ]
+}

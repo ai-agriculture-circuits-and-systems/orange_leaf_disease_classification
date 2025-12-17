@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5970536681,
+      "width": 512,
+      "height": 512,
+      "file_name": "Citrus Mealybugs27.jpeg",
+      "size": 341777,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 6607662681,
+      "image_id": 5970536681,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 909.1330552627201,
+      "bbox": [
+        64.73574400000001,
+        299.034368,
+        41.19552,
+        22.068736
+      ]
+    },
+    {
+      "id": 6607662682,
+      "image_id": 5970536681,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 993.555878510592,
+      "bbox": [
+        122.114816,
+        302.34495999999996,
+        50.022912,
+        19.862016
+      ]
+    },
+    {
+      "id": 6607662683,
+      "image_id": 5970536681,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 410.73850292633597,
+      "bbox": [
+        185.379328,
+        302.34496,
+        33.839104,
+        12.137984
+      ]
+    },
+    {
+      "id": 6607662684,
+      "image_id": 5970536681,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 8625.456584589312,
+      "bbox": [
+        247.172608,
+        241.65529600000002,
+        101.517312,
+        84.965376
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Citrus mealybugs",
+      "supercategory": "Augmented Image"
+    }
+  ]
+}

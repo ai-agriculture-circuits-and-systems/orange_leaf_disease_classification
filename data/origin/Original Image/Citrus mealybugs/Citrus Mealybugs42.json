@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7145329962,
+      "width": 512,
+      "height": 512,
+      "file_name": "Citrus Mealybugs42.jpeg",
+      "size": 602996,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 3403822962,
+      "image_id": 7145329962,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 1048.765542694912,
+      "bbox": [
+        235.40223999999998,
+        146.758656,
+        27.954176,
+        37.517312
+      ]
+    },
+    {
+      "id": 3403822963,
+      "image_id": 7145329962,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 1022.7825967104001,
+      "bbox": [
+        245.700864,
+        107.034368,
+        30.89664,
+        33.10336
+      ]
+    },
+    {
+      "id": 3403822964,
+      "image_id": 7145329962,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 2194.9346472263683,
+      "bbox": [
+        241.287424,
+        195.310336,
+        38.253056,
+        57.379328
+      ]
+    },
+    {
+      "id": 3403822965,
+      "image_id": 7145329962,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 1402.6809697894398,
+      "bbox": [
+        223.632384,
+        263.724032,
+        47.080448,
+        29.79328
+      ]
+    },
+    {
+      "id": 3403822966,
+      "image_id": 7145329962,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 1519.565620641792,
+      "bbox": [
+        170.666752,
+        262.620672,
+        38.253056,
+        39.724032
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Citrus mealybugs",
+      "supercategory": "Augmented Image"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4607290398,
+      "width": 512,
+      "height": 512,
+      "file_name": "Citrus Mealybugs90.jpeg",
+      "size": 506787,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1110467398,
+      "image_id": 4607290398,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 5625.285638094848,
+      "bbox": [
+        47.448319999999995,
+        356.413952,
+        72.827392,
+        77.241344
+      ]
+    },
+    {
+      "id": 1110467399,
+      "image_id": 4607290398,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 3071.07889676288,
+      "bbox": [
+        113.655296,
+        322.206976,
+        48.827392,
+        62.89664
+      ]
+    },
+    {
+      "id": 1110467400,
+      "image_id": 4607290398,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 1585.329691426816,
+      "bbox": [
+        123.586304,
+        390.620416,
+        23.172608,
+        68.413952
+      ]
+    },
+    {
+      "id": 1110467401,
+      "image_id": 4607290398,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 4472.858207584256,
+      "bbox": [
+        213.79328,
+        201.931008,
+        65.379328,
+        68.413952
+      ]
+    },
+    {
+      "id": 1110467402,
+      "image_id": 4607290398,
+      "category_id": 2,
+      "segmentation": [],
+      "area": 600.87778410496,
+      "bbox": [
+        183.172608,
+        347.58655999999996,
+        38.89664,
+        15.448064
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Citrus mealybugs",
+      "supercategory": "Augmented Image"
+    }
+  ]
+}
