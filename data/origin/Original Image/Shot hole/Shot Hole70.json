@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3827256183,
+      "width": 512,
+      "height": 512,
+      "file_name": "Shot Hole70.jpeg",
+      "size": 789061,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 5626641183,
+      "image_id": 3827256183,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 3135.2483610624004,
+      "bbox": [
+        160.8128,
+        218.94195200000001,
+        68.152832,
+        46.0032
+      ]
+    },
+    {
+      "id": 5626641184,
+      "image_id": 3827256183,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1409.8977579335678,
+      "bbox": [
+        115.37766400000001,
+        339.061504,
+        35.212288,
+        40.039936
+      ]
+    },
+    {
+      "id": 5626641185,
+      "image_id": 3827256183,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 731.5642318848,
+      "bbox": [
+        247.14009599999997,
+        288.79846399999997,
+        31.804928,
+        23.0016
+      ]
+    },
+    {
+      "id": 5626641186,
+      "image_id": 3827256183,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 2438.5356627968,
+      "bbox": [
+        251.683584,
+        338.209536,
+        45.435392,
+        53.6704
+      ]
+    },
+    {
+      "id": 5626641187,
+      "image_id": 3827256183,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1422.485836791808,
+      "bbox": [
+        169.900032,
+        425.104896,
+        39.755776,
+        35.780608
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 4,
+      "name": "Shot hole",
+      "supercategory": "Augmented Image"
+    }
+  ]
+}

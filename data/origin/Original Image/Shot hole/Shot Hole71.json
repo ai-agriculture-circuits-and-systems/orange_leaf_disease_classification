@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9724838185,
+      "width": 512,
+      "height": 512,
+      "file_name": "Shot Hole71.jpeg",
+      "size": 756284,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 7542910185,
+      "image_id": 9724838185,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1997.266874007552,
+      "bbox": [
+        156.269312,
+        235.980032,
+        54.522368,
+        36.632064
+      ]
+    },
+    {
+      "id": 7542910186,
+      "image_id": 9724838185,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1480.54245376,
+      "bbox": [
+        107.426304,
+        346.728704,
+        38.62016,
+        38.336
+      ]
+    },
+    {
+      "id": 7542910187,
+      "image_id": 9724838185,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1085.72454158336,
+      "bbox": [
+        225.558016,
+        298.16985600000004,
+        38.62016,
+        28.112896
+      ]
+    },
+    {
+      "id": 7542910188,
+      "image_id": 9724838185,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 2658.22188601344,
+      "bbox": [
+        235.78112000000002,
+        350.136576,
+        46.57152,
+        57.078272
+      ]
+    },
+    {
+      "id": 7542910189,
+      "image_id": 9724838185,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1617.947562868736,
+      "bbox": [
+        150.58995199999998,
+        421.69728000000003,
+        43.163648,
+        37.484032
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 4,
+      "name": "Shot hole",
+      "supercategory": "Augmented Image"
+    }
+  ]
+}

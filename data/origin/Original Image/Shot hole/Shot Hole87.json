@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5821131219,
+      "width": 512,
+      "height": 512,
+      "file_name": "Shot Hole87.jpeg",
+      "size": 751349,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 5411079219,
+      "image_id": 5821131219,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1809.9889934172159,
+      "bbox": [
+        203.849472,
+        202.128896,
+        43.459072,
+        41.648128
+      ]
+    },
+    {
+      "id": 5411079220,
+      "image_id": 5821131219,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1161.990457786368,
+      "bbox": [
+        121.00556800000001,
+        255.54713600000002,
+        30.557184,
+        38.026752
+      ]
+    },
+    {
+      "id": 5411079221,
+      "image_id": 5821131219,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 552.706545549312,
+      "bbox": [
+        211.318784,
+        294.47936,
+        21.050368,
+        26.256384
+      ]
+    },
+    {
+      "id": 5411079222,
+      "image_id": 5821131219,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1566.529272938496,
+      "bbox": [
+        166.501888,
+        350.61376,
+        35.310592,
+        44.364288
+      ]
+    },
+    {
+      "id": 5411079223,
+      "image_id": 5821131219,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 753.130470899712,
+      "bbox": [
+        112.178432,
+        345.181184,
+        23.766528,
+        31.688704
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 4,
+      "name": "Shot hole",
+      "supercategory": "Augmented Image"
+    }
+  ]
+}

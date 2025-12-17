@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8204434207,
+      "width": 512,
+      "height": 512,
+      "file_name": "Shot Hole81.jpeg",
+      "size": 585209,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 4544866207,
+      "image_id": 8204434207,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 2121.063859224576,
+      "bbox": [
+        279.902208,
+        269.128448,
+        46.854144,
+        45.269504
+      ]
+    },
+    {
+      "id": 4544866208,
+      "image_id": 8204434207,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1051.320974835712,
+      "bbox": [
+        305.02707200000003,
+        180.399616,
+        25.803776,
+        40.742912
+      ]
+    },
+    {
+      "id": 4544866209,
+      "image_id": 8204434207,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 2006.7090903859198,
+      "bbox": [
+        347.807232,
+        101.63046399999999,
+        32.59392,
+        61.566976
+      ]
+    },
+    {
+      "id": 4544866210,
+      "image_id": 8204434207,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1150.91061080064,
+      "bbox": [
+        408.921088,
+        150.521344,
+        32.59392,
+        35.310592
+      ]
+    },
+    {
+      "id": 4544866211,
+      "image_id": 8204434207,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1564.070445580288,
+      "bbox": [
+        381.080064,
+        229.290752,
+        35.989504,
+        43.459072
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 4,
+      "name": "Shot hole",
+      "supercategory": "Augmented Image"
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5352065018,
+      "width": 512,
+      "height": 512,
+      "file_name": "Shot Hole49.jpeg",
+      "size": 550026,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 5281565018,
+      "image_id": 5352065018,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1396.3519118540803,
+      "bbox": [
+        226.6944,
+        124.379136,
+        42.02752,
+        33.224704
+      ]
+    },
+    {
+      "id": 5281565019,
+      "image_id": 5352065018,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 836.075651072,
+      "bbox": [
+        236.917248,
+        194.23616,
+        30.6688,
+        27.26144
+      ]
+    },
+    {
+      "id": 5281565020,
+      "image_id": 5352065018,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 487.702799843328,
+      "bbox": [
+        300.526848,
+        111.600896,
+        20.445696,
+        23.853568
+      ]
+    },
+    {
+      "id": 5281565021,
+      "image_id": 5352065018,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 532.225347551232,
+      "bbox": [
+        299.39072,
+        178.050048,
+        28.397056,
+        18.742272
+      ]
+    },
+    {
+      "id": 5281565022,
+      "image_id": 5352065018,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 400.61787439104,
+      "bbox": [
+        302.798592,
+        209.57081599999998,
+        20.445696,
+        19.59424
+      ]
+    },
+    {
+      "id": 5281565023,
+      "image_id": 5352065018,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 667.6977659412481,
+      "bbox": [
+        306.206208,
+        255.57376,
+        26.125312,
+        25.557504
+      ]
+    },
+    {
+      "id": 5281565024,
+      "image_id": 5352065018,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 367.71284385792006,
+      "bbox": [
+        315.293184,
+        239.38764799999998,
+        22.71744,
+        16.186368
+      ]
+    },
+    {
+      "id": 5281565025,
+      "image_id": 5352065018,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 392.87257222348796,
+      "bbox": [
+        309.613824,
+        393.583872,
+        15.902208,
+        24.705536
+      ]
+    },
+    {
+      "id": 5281565026,
+      "image_id": 5352065018,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 304.82101069414404,
+      "bbox": [
+        288.031744,
+        287.946752,
+        17.038336,
+        17.890304
+      ]
+    },
+    {
+      "id": 5281565027,
+      "image_id": 5352065018,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1185.391294021632,
+      "bbox": [
+        158.541312,
+        295.613952,
+        39.755776,
+        29.816832
+      ]
+    },
+    {
+      "id": 5281565028,
+      "image_id": 5352065018,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1575.3609045606402,
+      "bbox": [
+        196.0256,
+        218.941696,
+        42.02752,
+        37.484032
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 4,
+      "name": "Shot hole",
+      "supercategory": "Augmented Image"
+    }
+  ]
+}

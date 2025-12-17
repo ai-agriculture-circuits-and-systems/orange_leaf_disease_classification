@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1816386200,
+      "width": 512,
+      "height": 512,
+      "file_name": "Shot Hole79.jpeg",
+      "size": 748585,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 8507428200,
+      "image_id": 1816386200,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 2250.187353358336,
+      "bbox": [
+        231.69024000000002,
+        21.95584,
+        40.742912,
+        55.228928
+      ]
+    },
+    {
+      "id": 8507428201,
+      "image_id": 1816386200,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1058.703715074048,
+      "bbox": [
+        231.01107199999998,
+        155.95392,
+        27.841024,
+        38.026752
+      ]
+    },
+    {
+      "id": 8507428202,
+      "image_id": 1816386200,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 2394.6564704665598,
+      "bbox": [
+        258.85209599999996,
+        258.263552,
+        64.50944,
+        37.121024
+      ]
+    },
+    {
+      "id": 8507428203,
+      "image_id": 1816386200,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1480.434852298752,
+      "bbox": [
+        332.188928,
+        109.7792,
+        29.198848,
+        50.701824
+      ]
+    },
+    {
+      "id": 8507428204,
+      "image_id": 1816386200,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1599.1022168309762,
+      "bbox": [
+        299.594496,
+        1.1315199999999983,
+        34.631168,
+        46.175232
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 4,
+      "name": "Shot hole",
+      "supercategory": "Augmented Image"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5794345193,
+      "width": 512,
+      "height": 512,
+      "file_name": "Shot Hole75.jpeg",
+      "size": 622194,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 6664456193,
+      "image_id": 5794345193,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1082.04721963008,
+      "bbox": [
+        315.891968,
+        197.602304,
+        29.87776,
+        36.215808
+      ]
+    },
+    {
+      "id": 6664456194,
+      "image_id": 5794345193,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1054.389149106176,
+      "bbox": [
+        280.58137600000003,
+        143.278592,
+        33.273344,
+        31.688704
+      ]
+    },
+    {
+      "id": 6664456195,
+      "image_id": 5794345193,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 4490.5527246848,
+      "bbox": [
+        361.38752,
+        252.83097599999996,
+        56.36096,
+        79.67488
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 4,
+      "name": "Shot hole",
+      "supercategory": "Augmented Image"
+    }
+  ]
+}

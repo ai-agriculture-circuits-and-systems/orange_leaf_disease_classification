@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3122155158,
+      "width": 512,
+      "height": 512,
+      "file_name": "Shot Hole6.jpeg",
+      "size": 637016,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1224726158,
+      "image_id": 3122155158,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 3677.1615882608644,
+      "bbox": [
+        140.366848,
+        299.02182400000004,
+        56.794112,
+        64.745472
+      ]
+    },
+    {
+      "id": 1224726159,
+      "image_id": 3122155158,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1139.9181033799682,
+      "bbox": [
+        274.40128000000004,
+        278.57561599999997,
+        35.212288,
+        32.372736
+      ]
+    },
+    {
+      "id": 1224726160,
+      "image_id": 3122155158,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1581.1900908503042,
+      "bbox": [
+        310.74944,
+        408.06656,
+        48.843264,
+        32.372736
+      ]
+    },
+    {
+      "id": 1224726161,
+      "image_id": 3122155158,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 3352.9899712512,
+      "bbox": [
+        383.44627199999996,
+        285.39110400000004,
+        62.473728,
+        53.6704
+      ]
+    },
+    {
+      "id": 1224726162,
+      "image_id": 3122155158,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 2090.190000095232,
+      "bbox": [
+        469.773568,
+        377.39776,
+        40.891904,
+        51.115008
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 4,
+      "name": "Shot hole",
+      "supercategory": "Augmented Image"
+    }
+  ]
+}

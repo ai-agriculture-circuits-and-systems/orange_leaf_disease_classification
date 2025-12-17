@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8188766213,
+      "width": 512,
+      "height": 512,
+      "file_name": "Shot Hole84.jpeg",
+      "size": 751635,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1924467213,
+      "image_id": 8188766213,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 3487.49560807424,
+      "bbox": [
+        83.572736,
+        231.720448,
+        77.24032,
+        45.151232
+      ]
+    },
+    {
+      "id": 1924467214,
+      "image_id": 8188766213,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 2601.1060252180478,
+      "bbox": [
+        55.17542400000001,
+        394.436096,
+        54.522368,
+        47.707136
+      ]
+    },
+    {
+      "id": 1924467215,
+      "image_id": 8188766213,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1169.920172228608,
+      "bbox": [
+        206.248448,
+        309.244672,
+        44.299264,
+        26.409472
+      ]
+    },
+    {
+      "id": 1924467216,
+      "image_id": 8188766213,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 4633.231557132289,
+      "bbox": [
+        233.509376,
+        377.397504,
+        64.745472,
+        71.560704
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 4,
+      "name": "Shot hole",
+      "supercategory": "Augmented Image"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7672545191,
+      "width": 512,
+      "height": 512,
+      "file_name": "Shot Hole74.jpeg",
+      "size": 753911,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1978204191,
+      "image_id": 7672545191,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 887.173821759488,
+      "bbox": [
+        198.416896,
+        205.750784,
+        25.124864,
+        35.310592
+      ]
+    },
+    {
+      "id": 1978204192,
+      "image_id": 7672545191,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1300.310362423296,
+      "bbox": [
+        95.201792,
+        255.54739200000003,
+        30.557184,
+        42.553344
+      ]
+    },
+    {
+      "id": 1978204193,
+      "image_id": 7672545191,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 2287.068257452032,
+      "bbox": [
+        208.60262400000002,
+        292.66816,
+        42.100736,
+        54.323712
+      ]
+    },
+    {
+      "id": 1978204194,
+      "image_id": 7672545191,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1008.2664054784,
+      "bbox": [
+        63.287296,
+        159.57555200000002,
+        27.1616,
+        37.121024
+      ]
+    },
+    {
+      "id": 1978204195,
+      "image_id": 7672545191,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 568.086819766272,
+      "bbox": [
+        156.995328,
+        174.96729599999998,
+        22.408704,
+        25.351168
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 4,
+      "name": "Shot hole",
+      "supercategory": "Augmented Image"
+    }
+  ]
+}

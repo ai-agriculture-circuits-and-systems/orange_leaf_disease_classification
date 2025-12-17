@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1500832668,
+      "width": 512,
+      "height": 512,
+      "file_name": "Shot Hole3.jpeg",
+      "size": 570940,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 5904100668,
+      "image_id": 1500832668,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 2597.22959388672,
+      "bbox": [
+        250.547712,
+        302.42944,
+        69.28896,
+        37.484032
+      ]
+    },
+    {
+      "id": 5904100669,
+      "image_id": 1500832668,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1470.8734752194562,
+      "bbox": [
+        247.13983999999996,
+        211.27424000000002,
+        43.163648,
+        34.076672
+      ]
+    },
+    {
+      "id": 5904100670,
+      "image_id": 1500832668,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 2256.6080059801598,
+      "bbox": [
+        390.261504,
+        216.38604800000002,
+        49.97888,
+        45.151232
+      ]
+    },
+    {
+      "id": 5904100671,
+      "image_id": 1500832668,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 943.483780071424,
+      "bbox": [
+        415.2512,
+        117.563904,
+        28.397056,
+        33.224704
+      ]
+    },
+    {
+      "id": 5904100672,
+      "image_id": 1500832668,
+      "category_id": 6,
+      "segmentation": [],
+      "area": 1706.02878468096,
+      "bbox": [
+        307.34208,
+        131.194368,
+        48.843264,
+        34.92864
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 4,
+      "name": "Shot hole",
+      "supercategory": "Augmented Image"
+    }
+  ]
+}
