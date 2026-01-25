@@ -1,23 +1,45 @@
 # Orange Leaf Disease Classification Dataset
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/your-repo/orange-leaf-disease-classification)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green?logo=creativecommons&logoColor=white)](https://creativecommons.org/licenses/by/4.0/)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue?logo=semver&logoColor=white)](https://github.com/your-repo/orange_leaf_disease_classification)
+[![GitHub stars](https://img.shields.io/github/stars/your-repo/orange_leaf_disease_classification?style=flat&logo=github&label=Stars&color=orange&labelColor=orange&logoColor=white)](https://github.com/your-repo/orange_leaf_disease_classification)
+[![GitHub forks](https://img.shields.io/github/forks/your-repo/orange_leaf_disease_classification?style=flat&logo=github&label=Forks&color=yellow&labelColor=yellow&logoColor=white)](https://github.com/your-repo/orange_leaf_disease_classification)
+[![GitHub watchers](https://img.shields.io/github/watchers/your-repo/orange_leaf_disease_classification?style=flat&logo=github&label=Watchers&color=cyan&labelColor=cyan&logoColor=white)](https://github.com/your-repo/orange_leaf_disease_classification)
+[![GitHub issues](https://img.shields.io/github/issues/your-repo/orange_leaf_disease_classification?style=flat&logo=github&label=Issues&color=red&labelColor=red&logoColor=white)](https://github.com/your-repo/orange_leaf_disease_classification/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/your-repo/orange_leaf_disease_classification?style=flat&logo=github&label=PRs&color=lime&labelColor=lime&logoColor=white)](https://github.com/your-repo/orange_leaf_disease_classification/pulls)
+[![GitHub contributors](https://img.shields.io/github/contributors/your-repo/orange_leaf_disease_classification?style=flat&logo=github&label=Contributors&color=purple&labelColor=purple&logoColor=white)](https://github.com/your-repo/orange_leaf_disease_classification/graphs/contributors)
+[![GitHub last commit](https://img.shields.io/github/last-commit/your-repo/orange_leaf_disease_classification?style=flat&logo=github&label=Last%20Commit&color=gray&labelColor=gray&logoColor=white)](https://github.com/your-repo/orange_leaf_disease_classification/commits)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.xxxxx-indigo?logo=doi&logoColor=white)](https://doi.org/10.5281/zenodo.xxxxx)
 
 A comprehensive dataset of orange (citrus) leaf images for disease classification, collected and organized for computer vision and deep learning research in agricultural applications.
 
-**Project page**: Dataset source information to be provided
+- **Project page**: (to be provided)
+- **Dataset repository**: (to be provided)
 
 ## TL;DR
 
 - **Task**: Classification, Object Detection
 - **Modality**: RGB
-- **Platform**: Ground/Field
+- **Platform**: Ground
 - **Real/Synthetic**: Real
-- **Images**: 4,749 orange leaf images across 11 categories (healthy_leaf, citrus_canker, citrus_greening, yellow_dragon, powdery_mildew, shot_hole, die_back, citrus_mealybugs, spiny_whitefly, yellow_leaves, foliage_damaged)
+- **Images**: 4,749 labeled images
+- **Classes**: 11 categories
+  - `healthy_leaf`: 594 images
+  - `citrus_canker`: 588 images
+  - `citrus_greening`: 254 images
+  - `yellow_dragon`: 407 images
+  - `powdery_mildew`: 598 images
+  - `shot_hole`: 560 images
+  - `die_back`: 434 images
+  - `citrus_mealybugs`: 603 images
+  - `spiny_whitefly`: 677 images
+  - `yellow_leaves`: 34 images
+  - `foliage_damaged`: 0 images
 - **Resolution**: Variable (typically 480×640 pixels or larger)
 - **Annotations**: CSV (per-image), COCO JSON (generated)
-- **License**: CC BY 4.0
-- **Citation**: see below
+- **Total annotations**: 4,749 (one per image for classification)
+- **License**: CC BY 4.0 (see LICENSE)
+- **Citation**: See below
 
 ## Table of Contents
 
@@ -37,11 +59,9 @@ A comprehensive dataset of orange (citrus) leaf images for disease classificatio
 
 ## Download
 
-**Original dataset**: Dataset source information to be provided
-
-This repo hosts structure and conversion scripts only; place the downloaded folders under this directory.
-
-**Local license file**: See `LICENSE` in the root directory.
+- **Original dataset**: (to be provided)
+- **This repository**: Hosts structure and conversion scripts only; place the downloaded folders under this directory.
+- **Local license file**: See `LICENSE` (CC BY 4.0).
 
 ## Dataset Structure
 
@@ -168,24 +188,14 @@ orange_leaf_disease_classification/
 
 ## Annotation Schema
 
-### CSV Format
+- **CSV per-image schema** (stored under `oranges/{subcategory}/csv/` folder):
+  - Columns: `#item, x, y, width, height, label`
+  - Coordinates: `x, y` - top-left corner of bounding box (pixels)
+  - Dimensions: `width, height` - bounding box dimensions (pixels)
+  - Label: Category ID (1=healthy_leaf, 2=citrus_canker, 3=citrus_greening, 4=yellow_dragon, 5=powdery_mildew, 6=shot_hole, 7=die_back, 8=citrus_mealybugs, 9=spiny_whitefly, 10=yellow_leaves, 11=foliage_damaged)
+  - For classification tasks, the bounding box typically covers the entire image `[0, 0, image_width, image_height]`
 
-Each image has a corresponding CSV annotation file in `oranges/{subcategory}/csv/{image_name}.csv`:
-
-```csv
-#item,x,y,width,height,label
-0,0.00,0.00,480.00,640.00,1
-```
-
-- **Coordinates**: `x, y` - top-left corner of bounding box (pixels)
-- **Dimensions**: `width, height` - bounding box dimensions (pixels)
-- **Label**: Category ID (1=healthy_leaf, 2=citrus_canker, 3=citrus_greening, 4=yellow_dragon, 5=powdery_mildew, 6=shot_hole, 7=die_back, 8=citrus_mealybugs, 9=spiny_whitefly, 10=yellow_leaves, 11=foliage_damaged)
-
-For classification tasks, the bounding box typically covers the entire image `[0, 0, image_width, image_height]`.
-
-### COCO Format
-
-COCO format JSON files are generated in the `annotations/` directory. Example structure:
+- **COCO-style** (generated):
 
 ```json
 {
@@ -230,9 +240,7 @@ COCO format JSON files are generated in the `annotations/` directory. Example st
 }
 ```
 
-### Label Maps
-
-Label mapping is defined in `oranges/labelmap.json`:
+- **Label maps**: `oranges/labelmap.json` defines the category mapping:
 
 ```json
 [
@@ -280,13 +288,13 @@ Splits provided via `oranges/{subcategory}/sets/*.txt`. You may define your own 
 
 ## Quick Start
 
-### Load COCO Format Annotations
+### Using COCO API
 
 ```python
 from pycocotools.coco import COCO
-import matplotlib.pyplot as plt
+import json
 
-# Load COCO annotation file
+# Load COCO annotations
 coco = COCO('annotations/combined_instances_train.json')
 
 # Get all image IDs
@@ -295,7 +303,8 @@ print(f"Total images: {len(img_ids)}")
 
 # Get all category IDs
 cat_ids = coco.getCatIds()
-print(f"Categories: {[coco.loadCats(cat_id)[0]['name'] for cat_id in cat_ids]}")
+categories = [coco.loadCats(cat_id)[0]['name'] for cat_id in cat_ids]
+print(f"Categories: {categories}")
 
 # Load a specific image and its annotations
 img_id = img_ids[0]
@@ -304,10 +313,13 @@ ann_ids = coco.getAnnIds(imgIds=img_id)
 anns = coco.loadAnns(ann_ids)
 
 print(f"Image: {img_info['file_name']}")
+print(f"Size: {img_info['width']}x{img_info['height']}")
 print(f"Annotations: {len(anns)}")
 ```
 
-### Convert CSV to COCO Format
+### Converting to COCO format
+
+If you need to regenerate COCO annotations from CSV files:
 
 ```bash
 # Convert all categories to COCO format
@@ -324,68 +336,58 @@ python scripts/convert_to_coco.py --root . --out annotations --combined
 ### Dependencies
 
 **Required**:
-- Python 3.6+
-- Pillow>=9.5
+- `Pillow>=9.5` (for image processing)
 
-**Optional** (for COCO API):
-- pycocotools>=2.0.7
+**Optional**:
+- `pycocotools>=2.0.7` (for COCO API)
 
-Install dependencies:
+Install with:
 ```bash
 pip install -r requirements.txt
 ```
 
 ## Evaluation and Baselines
 
-### Evaluation Metrics
-
-For classification tasks, common metrics include:
-- **Accuracy**: Overall classification accuracy
-- **Precision, Recall, F1-Score**: Per-class and macro-averaged metrics
-- **Confusion Matrix**: Per-class classification performance
-
-For object detection tasks:
-- **mAP@[.50:.95]**: Mean Average Precision at IoU thresholds from 0.5 to 0.95
-- **mAP@0.5**: Mean Average Precision at IoU threshold 0.5
-
-### Baseline Results
-
-*Baseline results will be added as they become available.*
+- **Primary metric**: 
+  - Classification: Accuracy, Precision, Recall, F1-Score (per-class and macro-averaged)
+  - Object Detection: mAP@[.50:.95], mAP@0.5
+- **Baseline results**: (to be added)
 
 ## Datasheet (Data Card)
 
 ### Motivation
 
-This dataset was created to support research in automated plant disease detection and classification, specifically for orange (citrus) leaves. The dataset enables the development of computer vision models for early disease detection in agricultural applications.
+This dataset was created to support research in automated plant disease detection and classification, specifically for orange (citrus) leaves, which is crucial for early disease detection in agricultural applications.
 
 ### Composition
 
-The dataset contains:
-- **4,749 images** of orange (citrus) leaves
-- **11 disease/health categories**: healthy_leaf, citrus_canker, citrus_greening, yellow_dragon, powdery_mildew, shot_hole, die_back, citrus_mealybugs, spiny_whitefly, yellow_leaves, foliage_damaged
-- **Per-image annotations** in CSV and COCO JSON formats
-- **Full-image bounding boxes** for classification tasks
+The dataset consists of:
+- **Image types**: RGB images of orange (citrus) leaves
+- **Categories**: 11 disease/health categories (healthy_leaf, citrus_canker, citrus_greening, yellow_dragon, powdery_mildew, shot_hole, die_back, citrus_mealybugs, spiny_whitefly, yellow_leaves, foliage_damaged)
+- **Annotation format**: Per-image annotations in CSV and COCO JSON formats, with full-image bounding boxes for classification tasks
 
 ### Collection Process
 
-- Images were collected from various sources and processed for orange leaf disease research
-- Images include both original and converted versions
-- Annotations were created using custom scripts converting from YOLO format to CSV and COCO formats
+- **Source**: Images collected from various sources and processed for orange leaf disease research
+- **Annotation tool**: Annotations created using custom scripts converting from YOLO format to CSV and COCO formats
+- **Validation**: Images include both original and converted versions
 
 ### Preprocessing
 
-- Images are organized by disease category
+- Images organized by disease category
 - Standardized directory structure following the dataset organization guidelines
 - CSV and COCO JSON annotations generated for each image
 - Dataset splits created with 70/15/15 ratio (train/val/test)
 
 ### Distribution
 
-The dataset is distributed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+- Dataset is distributed under CC BY 4.0 license
+- This repository provides standardized structure and conversion scripts
 
 ### Maintenance
 
-The dataset is maintained by the community. Issues and contributions are welcome.
+- Dataset structure has been standardized according to the dataset structure specification
+- COCO format annotations are generated from CSV files using the provided conversion script
 
 ## Known Issues and Caveats
 
@@ -403,18 +405,11 @@ The dataset is maintained by the community. Issues and contributions are welcome
 
 ## License
 
-This dataset is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
-
-See the `LICENSE` file in the root directory for the full license text.
-
-**Summary**: You are free to:
-- Share — copy and redistribute the material in any medium or format
-- Adapt — remix, transform, and build upon the material for any purpose, even commercially
-
-Under the following terms:
-- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+This dataset is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
 Check the original dataset terms and cite appropriately.
+
+See `LICENSE` file for full license text.
 
 ## Citation
 
@@ -432,18 +427,10 @@ If you use this dataset in your research, please cite:
 
 ## Changelog
 
-- **V1.0.0** (2025-12): Initial standardized structure and COCO conversion utility
-  - Reorganized dataset to standard structure following dataset organization guidelines
-  - Created CSV and COCO JSON annotations
-  - Generated dataset splits (train/val/test)
-  - Added conversion scripts and documentation
+- **V1.0.0** (2025): Initial standardized structure and COCO conversion utility
 
 ## Contact
 
-**Maintainers**: Dataset maintainers
-
-**Original Authors**: Dataset contributors
-
-**Source**: Dataset source information to be provided
-
-For questions, issues, or contributions, please open an issue or submit a pull request.
+- **Maintainers**: Open to contributions via issue tracker
+- **Original authors**: (to be added)
+- **Source**: (to be provided)
